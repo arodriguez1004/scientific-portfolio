@@ -137,7 +137,7 @@
     "href": "portfolio.html#prácticas-de-laboratorio",
     "title": "Portafolio académico",
     "section": "Prácticas de laboratorio",
-    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nDisponible próximamente.\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\n\n\n📊 Próximas prácticas\nLas siguientes prácticas y proyectos se incorporarán conforme avance el curso."
+    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →"
   },
   {
     "objectID": "portfolio.html#objetivo-del-portafolio",
@@ -145,5 +145,89 @@
     "title": "Portafolio académico",
     "section": "Objetivo del portafolio",
     "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
+  },
+  {
+    "objectID": "zotero.html",
+    "href": "zotero.html",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "",
+    "text": "Esta práctica consisitió en el uso del software zotero como una herramienta para la elaboración de referencias bibliograficas, teniendo en cuenta los diferentes tipos de formato y como zotero simplifica el cambio del mismo."
+  },
+  {
+    "objectID": "zotero.html#introducción",
+    "href": "zotero.html#introducción",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "",
+    "text": "Esta práctica consisitió en el uso del software zotero como una herramienta para la elaboración de referencias bibliograficas, teniendo en cuenta los diferentes tipos de formato y como zotero simplifica el cambio del mismo."
+  },
+  {
+    "objectID": "zotero.html#objetivos",
+    "href": "zotero.html#objetivos",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Objetivos",
+    "text": "Objetivos\n\nAl finalizar este tutorial, el estudiante será capaz de:\nCrear y organizar una biblioteca bibliográfica en Zotero.\nIncorporar referencias mediante DOI, archivos RIS y Zotero Connector.\nRevisar y corregir los metadatos de una referencia.\nInstalar y utilizar un estilo bibliográfico.\nInsertar citas y bibliografías automáticamente en Microsoft Word.\nIncorporar referencias que no corresponden a artículos científicos, como reportes, páginas web y software.\nCitar R, RStudio y paquetes de R."
+  },
+  {
+    "objectID": "zotero.html#metodología",
+    "href": "zotero.html#metodología",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Metodología",
+    "text": "Metodología\nPrimeramente, se creó una colección en zotero llamada tutorial_zotero. Se realizó la integración de esta herramienta en el software Word. Se incorporaron diversas referencias brindadas por el profesor a zotero mediante diversos métodos, por archivo RIS, por DOI y por medio de un zotero connector de Chrome. Se eleigió el estilo bibliografico y se realizó la escritura de diversos textos en bases a los titulos para poder realizar las citas parenteticas y de párrafo."
+  },
+  {
+    "objectID": "zotero.html#resultados",
+    "href": "zotero.html#resultados",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Resultados",
+    "text": "Resultados\nSe obtuvo una carpeta en zotero llama tutorial_zotero donde se albergaron todas las diversas citas utilizadas en la práctica. Además se obtuvo un Word con citas parenteticas y de parrafo en base a los textos referenciados.\n\n\n\nFigura 1. Toma de pantalla de la biblioteca creada en esta práctica\n\n\nCita 1\nLa epidemia tuvo un curso prolongado, duró durante las estaciones lluviosa y seca, y alcanzó tasas de ataque de hasta el 5% en ciertos distritos (Villarejos et al. 1972)\nAdemás, se obtuvo un cuadro con los diversos métodos utilizados y en que ocasiones utilizarlos.\nCuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zotero.\n\n\n\n\n\n\n\nMétodo\n¿Cuándo utilizarlo?\n\n\n\n\nDOI\nCuando la publicación tiene un DOI conocido\n\n\nArchivo RIS\nCuando la revista o base de datos permite exportar la referencia\n\n\nZotero Connector\nPara capturar referencias directamente desde el navegador\n\n\nEntrada manual\nCuando la información no puede importarse automáticamente\n\n\n\nCita 2\nEste crecimiento ha estado acompañado de cambios a gran escala en la cobertura y el uso del suelo, generalmente en favor de la agricultura. Se combinó información sobre la cobertura y el uso del suelo, así como sobre el crecimiento de la población humana, para generar un mapa compuesto que muestra las tasas de transformación del mundo por parte de los seres humanos (Gallant et al. 2007)"
+  },
+  {
+    "objectID": "zotero.html#conclusiónes",
+    "href": "zotero.html#conclusiónes",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\n\nSe usó la herramienta zotero como parte vital para el orden de las citas y la veracidad de estos textos\nSe utilizaron las extensiones que brinda zotero tanto en word como en Chrome.\nSe citaron diversas fuentes, tanto manuelaes, protocolos y articulos cientificos, apreciando la importancia de todos estos archivos."
+  },
+  {
+    "objectID": "template.html#objetivo",
+    "href": "template.html#objetivo",
+    "title": "template",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "template.html#metodología",
+    "href": "template.html#metodología",
+    "title": "template",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "template.html#resultados",
+    "href": "template.html#resultados",
+    "title": "template",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "template.html#interpretación",
+    "href": "template.html#interpretación",
+    "title": "template",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "template.html#conclusiónes",
+    "href": "template.html#conclusiónes",
+    "title": "template",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes"
+  },
+  {
+    "objectID": "template.html#referencias",
+    "href": "template.html#referencias",
+    "title": "template",
+    "section": "Referencias",
+    "text": "Referencias"
   }
 ]

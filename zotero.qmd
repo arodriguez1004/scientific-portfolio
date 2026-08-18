@@ -1,0 +1,73 @@
+---
+title: "Gestión de referencias bibliográficas con Zotero"
+author: "Aylin Rodriguez-Jimenez"
+bibliography: referencias.bib
+format: html
+editor: visual
+---
+
+## Introducción
+
+Esta práctica consisitió en el uso del software zotero como una herramienta para la elaboración de referencias bibliograficas, teniendo en cuenta los diferentes tipos de formato y como zotero simplifica el cambio del mismo.
+
+## Objetivos
+
+- Al finalizar este tutorial, el estudiante será capaz de:
+
+- Crear y organizar una biblioteca bibliográfica en Zotero.
+
+- Incorporar referencias mediante DOI, archivos RIS y Zotero Connector.
+
+- Revisar y corregir los metadatos de una referencia.
+
+- Instalar y utilizar un estilo bibliográfico.
+
+- Insertar citas y bibliografías automáticamente en Microsoft Word.
+
+- Incorporar referencias que no corresponden a artículos científicos, como reportes, páginas web y software.
+
+- Citar R, RStudio y paquetes de R.
+
+## Metodología
+
+Primeramente, se creó una colección en zotero llamada tutorial_zotero. Se realizó la integración de esta herramienta en el software Word. Se incorporaron diversas referencias brindadas por el profesor a zotero mediante diversos métodos, por archivo RIS, por DOI y por medio de un zotero connector de Chrome. Se eleigió el estilo bibliografico y se realizó la escritura de diversos textos en bases a los titulos para poder realizar las citas parenteticas y de párrafo.
+
+## Resultados
+
+Se obtuvo una carpeta en zotero llama tutorial_zotero donde se albergaron todas las diversas citas utilizadas en la práctica. Además se obtuvo un Word con citas parenteticas y de parrafo en base a los textos referenciados.
+
+![Figura 1. Toma de pantalla de la biblioteca creada en esta práctica](images/Foto%20zotero.png)
+
+Cita 1
+
+La epidemia tuvo un curso prolongado, duró durante las estaciones lluviosa y seca,
+y alcanzó tasas de ataque de hasta el 5% en ciertos distritos [@villarejos_hepatitis_1972]
+
+Además, se obtuvo un cuadro con los diversos métodos utilizados y en que ocasiones utilizarlos.
+
+Cuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zotero.
+
+| Método | ¿Cuándo utilizarlo? |
+|------------------------------------|------------------------------------|
+| DOI | Cuando la publicación tiene un DOI conocido |
+| Archivo RIS | Cuando la revista o base de datos permite exportar la referencia |
+| Zotero Connector | Para capturar referencias directamente desde el navegador |
+| Entrada manual | Cuando la información no puede importarse automáticamente |
+
+Cita 2
+
+Este crecimiento ha estado acompañado de cambios a gran escala en la cobertura y el
+uso del suelo, generalmente en favor de la agricultura. Se combinó información
+sobre la cobertura y el uso del suelo, así como sobre el crecimiento de la
+población humana, para generar un mapa compuesto que muestra las tasas de
+transformación del mundo por parte de los seres humanos [@gallant_global_2007]
+
+## Conclusiónes
+
+- Se usó la herramienta zotero como parte vital para el orden de las citas y la veracidad de estos textos
+
+- Se utilizaron las extensiones que brinda zotero tanto en word como en Chrome.
+
+- Se citaron diversas fuentes, tanto manuelaes, protocolos y articulos cientificos, apreciando la importancia de todos estos archivos.
+
+## Referencias
