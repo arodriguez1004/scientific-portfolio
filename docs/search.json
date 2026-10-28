@@ -1,152 +1,5 @@
 [
   {
-    "objectID": "práctica-ejemplo.html",
-    "href": "práctica-ejemplo.html",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "",
-    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
-  },
-  {
-    "objectID": "práctica-ejemplo.html#objetivo",
-    "href": "práctica-ejemplo.html#objetivo",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "",
-    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
-  },
-  {
-    "objectID": "práctica-ejemplo.html#materiales-y-herramientas",
-    "href": "práctica-ejemplo.html#materiales-y-herramientas",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "Materiales y herramientas",
-    "text": "Materiales y herramientas\n\nRStudio\nQuarto\nGit\nGitHub"
-  },
-  {
-    "objectID": "práctica-ejemplo.html#procedimiento",
-    "href": "práctica-ejemplo.html#procedimiento",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "Procedimiento",
-    "text": "Procedimiento\nExplique de forma ordenada los pasos realizados durante la práctica.\nPaso 1:"
-  },
-  {
-    "objectID": "práctica-ejemplo.html#resultados",
-    "href": "práctica-ejemplo.html#resultados",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "Resultados",
-    "text": "Resultados\nIncluya aquí los principales resultados obtenidos.\nSe logró la creación exitosa de un sitio web."
-  },
-  {
-    "objectID": "práctica-ejemplo.html#figuras-y-tablas",
-    "href": "práctica-ejemplo.html#figuras-y-tablas",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "Figuras y tablas",
-    "text": "Figuras y tablas\n\n\n\nFigura 1. Imagen del sitio web personalizado"
-  },
-  {
-    "objectID": "práctica-ejemplo.html#reflexión-final",
-    "href": "práctica-ejemplo.html#reflexión-final",
-    "title": "Práctica 1: Creación de sitio web personalizado",
-    "section": "Reflexión final",
-    "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\nLas extensiones a veces pueden mostrar dificultad para mostrarse, por ejemplo en las imagenes. Aunque la extensión sea similar, asi sea una letra de diferencia, no la muestra\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Inicio",
-    "section": "",
-    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
-  },
-  {
-    "objectID": "index.html#estudiante-de-bachillerato-en-biología-tropical",
-    "href": "index.html#estudiante-de-bachillerato-en-biología-tropical",
-    "title": "Inicio",
-    "section": "",
-    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
-  },
-  {
-    "objectID": "index.html#bienvenidoa",
-    "href": "index.html#bienvenidoa",
-    "title": "Inicio",
-    "section": "Bienvenido(a)",
-    "text": "Bienvenido(a)\nEste sitio web constituye mi portafolio digital académico, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nEste portafolio utiliza herramientas de ciencia reproducible como R, Quarto, Git y GitHub, permitiendo organizar y compartir mi trabajo de manera profesional."
-  },
-  {
-    "objectID": "index.html#contenido-del-sitio",
-    "href": "index.html#contenido-del-sitio",
-    "title": "Inicio",
-    "section": "Contenido del sitio",
-    "text": "Contenido del sitio\n\n\nPerfil\nInformación personal, intereses académicos y experiencia.\nIr al perfil →\n\n\nPortafolio\nRegistro de las prácticas, proyectos y productos desarrollados durante el semestre.\nVer el portafolio →\n\n\n\n\nLa ciencia solo adquiere valor cuando puede ser comunicada y reproducida."
-  },
-  {
-    "objectID": "index.html#herramientas-y-afiliación",
-    "href": "index.html#herramientas-y-afiliación",
-    "title": "Inicio",
-    "section": "Herramientas y afiliación",
-    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 28 de octubre 2026"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Perfil",
-    "section": "",
-    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
-  },
-  {
-    "objectID": "about.html#estudiante-de-bachillerato-en-biología-tropical",
-    "href": "about.html#estudiante-de-bachillerato-en-biología-tropical",
-    "title": "Perfil",
-    "section": "",
-    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
-  },
-  {
-    "objectID": "about.html#biografía",
-    "href": "about.html#biografía",
-    "title": "Perfil",
-    "section": "Biografía",
-    "text": "Biografía\nSoy estudiante de Biología Tropical en la Universidad Nacional de Costa Rica. He trabajado con mamiferos, aves, anfibios y reptiles en conservación, monitoreo y estudio de comportamiento.Tambien he trabajado con educación ambiental y ciencia ciudadana. En la búsqueda de mis intereses, me he dado cuenta de que el estudio de comportamiento animal es realmente interesante y mi grupo favorito son los anfibios, sin embargo, estoy dispuesta a aprender y colaborar con respecto a cualquier rama de la biología y ser participe de la búsqueda de información y la comunicación de nuevos conocimientos."
-  },
-  {
-    "objectID": "about.html#áreas-de-interés",
-    "href": "about.html#áreas-de-interés",
-    "title": "Perfil",
-    "section": "Áreas de interés",
-    "text": "Áreas de interés\n\nEcología\nConservación\nBiogeografía\nEducación ambiental\nComportamiento animal\nHerpetología"
-  },
-  {
-    "objectID": "about.html#habilidades",
-    "href": "about.html#habilidades",
-    "title": "Perfil",
-    "section": "Habilidades",
-    "text": "Habilidades\n\nR\nQGIS\nMicrosoft Office\nInglés B2\nSalud ocupacional y primeros auxilios"
-  },
-  {
-    "objectID": "about.html#formación-académica",
-    "href": "about.html#formación-académica",
-    "title": "Perfil",
-    "section": "Formación académica",
-    "text": "Formación académica\nUniversidad Nacional (UNA)\nBachillerato en Biología\n2023 – Presente"
-  },
-  {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portafolio académico",
-    "section": "",
-    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional."
-  },
-  {
-    "objectID": "portfolio.html#prácticas-de-laboratorio",
-    "href": "portfolio.html#prácticas-de-laboratorio",
-    "title": "Portafolio académico",
-    "section": "Prácticas de laboratorio",
-    "text": "Prácticas de laboratorio\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n📚 Manejo de datos con Tidyverse\nEn esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en Rstudio.\nVer práctica →\n\n\n📚 Descarga de ocurrencias de GBIF y iNaturalist\nEn esta práctica se descargará y limpiará un dataset de ocurrencias obtenidas mediante los API de GBIF y iNaturalist, con los paquetes de rgbif y rinat\nVer práctica →"
-  },
-  {
-    "objectID": "portfolio.html#objetivo-del-portafolio",
-    "href": "portfolio.html#objetivo-del-portafolio",
-    "title": "Portafolio académico",
-    "section": "Objetivo del portafolio",
-    "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
-  },
-  {
     "objectID": "zotero.html",
     "href": "zotero.html",
     "title": "Gestión de referencias bibliográficas con Zotero",
@@ -231,88 +84,102 @@
     "text": "Referencias"
   },
   {
-    "objectID": "tidyverse.html",
-    "href": "tidyverse.html",
-    "title": "Manejo de datos con Tidyverse",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portafolio académico",
     "section": "",
-    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional."
   },
   {
-    "objectID": "tidyverse.html#introducción",
-    "href": "tidyverse.html#introducción",
-    "title": "Manejo de datos con Tidyverse",
+    "objectID": "portfolio.html#prácticas-de-laboratorio",
+    "href": "portfolio.html#prácticas-de-laboratorio",
+    "title": "Portafolio académico",
+    "section": "Prácticas de laboratorio",
+    "text": "Prácticas de laboratorio\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n📚 Manejo de datos con Tidyverse\nEn esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en Rstudio.\nVer práctica →\n\n\n📚 Descarga de ocurrencias de GBIF y iNaturalist\nEn esta práctica se descargará y limpiará un dataset de ocurrencias obtenidas mediante los API de GBIF y iNaturalist, con los paquetes de rgbif y rinat\nVer práctica →"
+  },
+  {
+    "objectID": "portfolio.html#objetivo-del-portafolio",
+    "href": "portfolio.html#objetivo-del-portafolio",
+    "title": "Portafolio académico",
+    "section": "Objetivo del portafolio",
+    "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
     "section": "",
-    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
   },
   {
-    "objectID": "tidyverse.html#objetivo",
-    "href": "tidyverse.html#objetivo",
-    "title": "Manejo de datos con Tidyverse",
-    "section": "Objetivo",
-    "text": "Objetivo\nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse, que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común."
+    "objectID": "index.html#estudiante-de-bachillerato-en-biología-tropical",
+    "href": "index.html#estudiante-de-bachillerato-en-biología-tropical",
+    "title": "Inicio",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
   },
   {
-    "objectID": "tidyverse.html#metodología",
-    "href": "tidyverse.html#metodología",
-    "title": "Manejo de datos con Tidyverse",
-    "section": "Metodología",
-    "text": "Metodología\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones."
+    "objectID": "index.html#bienvenidoa",
+    "href": "index.html#bienvenidoa",
+    "title": "Inicio",
+    "section": "Bienvenido(a)",
+    "text": "Bienvenido(a)\nEste sitio web constituye mi portafolio digital académico, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nEste portafolio utiliza herramientas de ciencia reproducible como R, Quarto, Git y GitHub, permitiendo organizar y compartir mi trabajo de manera profesional."
   },
   {
-    "objectID": "tidyverse.html#resultados",
-    "href": "tidyverse.html#resultados",
-    "title": "Manejo de datos con Tidyverse",
-    "section": "Resultados",
-    "text": "Resultados\nSe encontró un total de 26 especies. La especie más abundante fue el hipopótamo, Hippopotamus amphibius, con 28 observaciones, seguido del antílope de Lechwe, Kobus leche, con 22 observaciones (Figura 1).\n\n\n\nFigura 1. Abundancia relativa de mamíferos africanos en el juego de datos importado y procesado con Tidyverse en el curso de Ecología de Poblaciones y Comunidades, 2026."
+    "objectID": "index.html#contenido-del-sitio",
+    "href": "index.html#contenido-del-sitio",
+    "title": "Inicio",
+    "section": "Contenido del sitio",
+    "text": "Contenido del sitio\n\n\nPerfil\nInformación personal, intereses académicos y experiencia.\nIr al perfil →\n\n\nPortafolio\nRegistro de las prácticas, proyectos y productos desarrollados durante el semestre.\nVer el portafolio →\n\n\n\n\nLa ciencia solo adquiere valor cuando puede ser comunicada y reproducida."
   },
   {
-    "objectID": "tidyverse.html#conclusiónes",
-    "href": "tidyverse.html#conclusiónes",
-    "title": "Manejo de datos con Tidyverse",
-    "section": "Conclusiónes",
-    "text": "Conclusiónes\nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más practica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo del paquete de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+    "objectID": "index.html#herramientas-y-afiliación",
+    "href": "index.html#herramientas-y-afiliación",
+    "title": "Inicio",
+    "section": "Herramientas y afiliación",
+    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 28 de octubre 2026"
   },
   {
-    "objectID": "occs.html#objetivo",
-    "href": "occs.html#objetivo",
-    "title": "template",
-    "section": "Objetivo",
-    "text": "Objetivo"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
   },
   {
-    "objectID": "occs.html#metodología",
-    "href": "occs.html#metodología",
-    "title": "template",
-    "section": "Metodología",
-    "text": "Metodología"
+    "objectID": "about.html#estudiante-de-bachillerato-en-biología-tropical",
+    "href": "about.html#estudiante-de-bachillerato-en-biología-tropical",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
   },
   {
-    "objectID": "occs.html#resultados",
-    "href": "occs.html#resultados",
-    "title": "template",
-    "section": "Resultados",
-    "text": "Resultados"
+    "objectID": "about.html#biografía",
+    "href": "about.html#biografía",
+    "title": "Perfil",
+    "section": "Biografía",
+    "text": "Biografía\nSoy estudiante de Biología Tropical en la Universidad Nacional de Costa Rica. He trabajado con mamiferos, aves, anfibios y reptiles en conservación, monitoreo y estudio de comportamiento.Tambien he trabajado con educación ambiental y ciencia ciudadana. En la búsqueda de mis intereses, me he dado cuenta de que el estudio de comportamiento animal es realmente interesante y mi grupo favorito son los anfibios, sin embargo, estoy dispuesta a aprender y colaborar con respecto a cualquier rama de la biología y ser participe de la búsqueda de información y la comunicación de nuevos conocimientos."
   },
   {
-    "objectID": "occs.html#interpretación",
-    "href": "occs.html#interpretación",
-    "title": "template",
-    "section": "Interpretación",
-    "text": "Interpretación"
+    "objectID": "about.html#áreas-de-interés",
+    "href": "about.html#áreas-de-interés",
+    "title": "Perfil",
+    "section": "Áreas de interés",
+    "text": "Áreas de interés\n\nEcología\nConservación\nBiogeografía\nEducación ambiental\nComportamiento animal\nHerpetología"
   },
   {
-    "objectID": "occs.html#conclusiónes",
-    "href": "occs.html#conclusiónes",
-    "title": "template",
-    "section": "Conclusiónes",
-    "text": "Conclusiónes"
+    "objectID": "about.html#habilidades",
+    "href": "about.html#habilidades",
+    "title": "Perfil",
+    "section": "Habilidades",
+    "text": "Habilidades\n\nR\nQGIS\nMicrosoft Office\nInglés B2\nSalud ocupacional y primeros auxilios"
   },
   {
-    "objectID": "occs.html#referencias",
-    "href": "occs.html#referencias",
-    "title": "template",
-    "section": "Referencias",
-    "text": "Referencias"
+    "objectID": "about.html#formación-académica",
+    "href": "about.html#formación-académica",
+    "title": "Perfil",
+    "section": "Formación académica",
+    "text": "Formación académica\nUniversidad Nacional (UNA)\nBachillerato en Biología\n2023 – Presente"
   },
   {
     "objectID": "cementerio.html#objetivo",
@@ -362,5 +229,96 @@
     "title": "Descarga de ocurrencias con Rstudio desde Inaturalist y GBIF",
     "section": "",
     "text": "En esta practica se utilizaron los paquetes de rgbif y rinat para descargar ocurrencias de la especie de anuro Craugastor fitzingeri en Costa Rica. Para el ordenamiento de datos se utilizó el paquete Tidyverse para la limpieza de datos espaciales, donde se utilizó principalmente el paquete CoordinateCleaner. El mapeo de ocurrencias se realizó con los paquetes sf y tmap. El objetivo de esta practica fue aprender el proceso de descarga de datos de ocurrencia desde un API y su posterior limpieza para crear juegos de datos robustos que puedan utilizarse en análisis espaciales. Posterior a la limpieza se construyó un juego de datos preliminar de (poner ocurrencias), de las cuales (poner numero) pertenecían a GBIF y (poner numero) pertenecían a iNaturalist (Figura 1). En este ejercicio aprendí las bases de la importación de datos de GBIF y iNaturalist, sin embargo, existe alta heterogeneidad en los datos descargados y el proceso de limpieza es complejo. Una ventaja es que os códigos utilizados funcionan para cualquier clado y en cualquier región.\n\n\n\nFigura 1. Mapa de Costa Rica mostrando las ocurrencias de la especie Craugastor fitzingeri por fuente, a partir de los datos descargados desde las API de GBIF y iNaturalist en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "práctica-ejemplo.html",
+    "href": "práctica-ejemplo.html",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#objetivo",
+    "href": "práctica-ejemplo.html#objetivo",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#materiales-y-herramientas",
+    "href": "práctica-ejemplo.html#materiales-y-herramientas",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Materiales y herramientas",
+    "text": "Materiales y herramientas\n\nRStudio\nQuarto\nGit\nGitHub"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#procedimiento",
+    "href": "práctica-ejemplo.html#procedimiento",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nExplique de forma ordenada los pasos realizados durante la práctica.\nPaso 1:"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#resultados",
+    "href": "práctica-ejemplo.html#resultados",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Resultados",
+    "text": "Resultados\nIncluya aquí los principales resultados obtenidos.\nSe logró la creación exitosa de un sitio web."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#figuras-y-tablas",
+    "href": "práctica-ejemplo.html#figuras-y-tablas",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Figuras y tablas",
+    "text": "Figuras y tablas\n\n\n\nFigura 1. Imagen del sitio web personalizado"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#reflexión-final",
+    "href": "práctica-ejemplo.html#reflexión-final",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Reflexión final",
+    "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\nLas extensiones a veces pueden mostrar dificultad para mostrarse, por ejemplo en las imagenes. Aunque la extensión sea similar, asi sea una letra de diferencia, no la muestra\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
+  },
+  {
+    "objectID": "tidyverse.html",
+    "href": "tidyverse.html",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "",
+    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+  },
+  {
+    "objectID": "tidyverse.html#introducción",
+    "href": "tidyverse.html#introducción",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "",
+    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+  },
+  {
+    "objectID": "tidyverse.html#objetivo",
+    "href": "tidyverse.html#objetivo",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse, que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común."
+  },
+  {
+    "objectID": "tidyverse.html#metodología",
+    "href": "tidyverse.html#metodología",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Metodología",
+    "text": "Metodología\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones."
+  },
+  {
+    "objectID": "tidyverse.html#resultados",
+    "href": "tidyverse.html#resultados",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Resultados",
+    "text": "Resultados\nSe encontró un total de 26 especies. La especie más abundante fue el hipopótamo, Hippopotamus amphibius, con 28 observaciones, seguido del antílope de Lechwe, Kobus leche, con 22 observaciones (Figura 1).\n\n\n\nFigura 1. Abundancia relativa de mamíferos africanos en el juego de datos importado y procesado con Tidyverse en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "tidyverse.html#conclusiónes",
+    "href": "tidyverse.html#conclusiónes",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más practica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo del paquete de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
   }
 ]
