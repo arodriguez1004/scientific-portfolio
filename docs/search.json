@@ -81,7 +81,7 @@
     "href": "index.html#herramientas-y-afiliación",
     "title": "Inicio",
     "section": "Herramientas y afiliación",
-    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 4 de Agosto 2026"
+    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 28 de octubre 2026"
   },
   {
     "objectID": "about.html",
@@ -137,7 +137,7 @@
     "href": "portfolio.html#prácticas-de-laboratorio",
     "title": "Portafolio académico",
     "section": "Prácticas de laboratorio",
-    "text": "Prácticas de laboratorio\n\n📄 Práctica de ejemplo\nIntroducción al uso del portafolio digital académico y documentación de una práctica mediante Quarto.\nVer práctica →\n\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →"
+    "text": "Prácticas de laboratorio\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n📚 Manejo de datos con Tidyverse\nEn esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en Rstudio.\nVer práctica →\n\n\n📚 Descarga de ocurrencias de GBIF y iNaturalist\nEn esta práctica se descargará y limpiará un dataset de ocurrencias obtenidas mediante los API de GBIF y iNaturalist, con los paquetes de rgbif y rinat\nVer práctica →"
   },
   {
     "objectID": "portfolio.html#objetivo-del-portafolio",
@@ -229,5 +229,138 @@
     "title": "template",
     "section": "Referencias",
     "text": "Referencias"
+  },
+  {
+    "objectID": "tidyverse.html",
+    "href": "tidyverse.html",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "",
+    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+  },
+  {
+    "objectID": "tidyverse.html#introducción",
+    "href": "tidyverse.html#introducción",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "",
+    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+  },
+  {
+    "objectID": "tidyverse.html#objetivo",
+    "href": "tidyverse.html#objetivo",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse, que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común."
+  },
+  {
+    "objectID": "tidyverse.html#metodología",
+    "href": "tidyverse.html#metodología",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Metodología",
+    "text": "Metodología\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones."
+  },
+  {
+    "objectID": "tidyverse.html#resultados",
+    "href": "tidyverse.html#resultados",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Resultados",
+    "text": "Resultados\nSe encontró un total de 26 especies. La especie más abundante fue el hipopótamo, Hippopotamus amphibius, con 28 observaciones, seguido del antílope de Lechwe, Kobus leche, con 22 observaciones (Figura 1).\n\n\n\nFigura 1. Abundancia relativa de mamíferos africanos en el juego de datos importado y procesado con Tidyverse en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "tidyverse.html#conclusiónes",
+    "href": "tidyverse.html#conclusiónes",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más practica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo del paquete de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+  },
+  {
+    "objectID": "occs.html#objetivo",
+    "href": "occs.html#objetivo",
+    "title": "template",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "occs.html#metodología",
+    "href": "occs.html#metodología",
+    "title": "template",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "occs.html#resultados",
+    "href": "occs.html#resultados",
+    "title": "template",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "occs.html#interpretación",
+    "href": "occs.html#interpretación",
+    "title": "template",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "occs.html#conclusiónes",
+    "href": "occs.html#conclusiónes",
+    "title": "template",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes"
+  },
+  {
+    "objectID": "occs.html#referencias",
+    "href": "occs.html#referencias",
+    "title": "template",
+    "section": "Referencias",
+    "text": "Referencias"
+  },
+  {
+    "objectID": "cementerio.html#objetivo",
+    "href": "cementerio.html#objetivo",
+    "title": "template",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "cementerio.html#metodología",
+    "href": "cementerio.html#metodología",
+    "title": "template",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "cementerio.html#resultados",
+    "href": "cementerio.html#resultados",
+    "title": "template",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "cementerio.html#interpretación",
+    "href": "cementerio.html#interpretación",
+    "title": "template",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "cementerio.html#conclusiónes",
+    "href": "cementerio.html#conclusiónes",
+    "title": "template",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes"
+  },
+  {
+    "objectID": "cementerio.html#referencias",
+    "href": "cementerio.html#referencias",
+    "title": "template",
+    "section": "Referencias",
+    "text": "Referencias"
+  },
+  {
+    "objectID": "occs.html",
+    "href": "occs.html",
+    "title": "Descarga de ocurrencias con Rstudio desde Inaturalist y GBIF",
+    "section": "",
+    "text": "En esta practica se utilizaron los paquetes de rgbif y rinat para descargar ocurrencias de la especie de anuro Craugastor fitzingeri en Costa Rica. Para el ordenamiento de datos se utilizó el paquete Tidyverse para la limpieza de datos espaciales, donde se utilizó principalmente el paquete CoordinateCleaner. El mapeo de ocurrencias se realizó con los paquetes sf y tmap. El objetivo de esta practica fue aprender el proceso de descarga de datos de ocurrencia desde un API y su posterior limpieza para crear juegos de datos robustos que puedan utilizarse en análisis espaciales. Posterior a la limpieza se construyó un juego de datos preliminar de (poner ocurrencias), de las cuales (poner numero) pertenecían a GBIF y (poner numero) pertenecían a iNaturalist (Figura 1). En este ejercicio aprendí las bases de la importación de datos de GBIF y iNaturalist, sin embargo, existe alta heterogeneidad en los datos descargados y el proceso de limpieza es complejo. Una ventaja es que os códigos utilizados funcionan para cualquier clado y en cualquier región.\n\n\n\nFigura 1. Mapa de Costa Rica mostrando las ocurrencias de la especie Craugastor fitzingeri por fuente, a partir de los datos descargados desde las API de GBIF y iNaturalist en el curso de Ecología de Poblaciones y Comunidades, 2026."
   }
 ]
