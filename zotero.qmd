@@ -40,15 +40,14 @@ Se obtuvo una carpeta en zotero llama tutorial_zotero donde se albergaron todas 
 
 Cita 1
 
-La epidemia tuvo un curso prolongado, duró durante las estaciones lluviosa y seca,
-y alcanzó tasas de ataque de hasta el 5% en ciertos distritos [@villarejos_hepatitis_1972]
+La epidemia tuvo un curso prolongado, duró durante las estaciones lluviosa y seca, y alcanzó tasas de ataque de hasta el 5% en ciertos distritos [@villarejos_hepatitis_1972]
 
 Además, se obtuvo un cuadro con los diversos métodos utilizados y en que ocasiones utilizarlos.
 
 Cuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zotero.
 
 | Método | ¿Cuándo utilizarlo? |
-|------------------------------------|------------------------------------|
+|----|----|
 | DOI | Cuando la publicación tiene un DOI conocido |
 | Archivo RIS | Cuando la revista o base de datos permite exportar la referencia |
 | Zotero Connector | Para capturar referencias directamente desde el navegador |
@@ -56,11 +55,7 @@ Cuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zote
 
 Cita 2
 
-Este crecimiento ha estado acompañado de cambios a gran escala en la cobertura y el
-uso del suelo, generalmente en favor de la agricultura. Se combinó información
-sobre la cobertura y el uso del suelo, así como sobre el crecimiento de la
-población humana, para generar un mapa compuesto que muestra las tasas de
-transformación del mundo por parte de los seres humanos [@gallant_global_2007]
+Este crecimiento ha estado acompañado de cambios a gran escala en la cobertura y el uso del suelo, generalmente en favor de la agricultura. Se combinó información sobre la cobertura y el uso del suelo, así como sobre el crecimiento de la población humana, para generar un mapa compuesto que muestra las tasas de transformación del mundo por parte de los seres humanos [@gallant_global_2007]
 
 ## Conclusiónes
 
