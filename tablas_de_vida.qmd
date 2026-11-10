@@ -1,0 +1,27 @@
+---
+title: "Generación de tablas de vida (Gira 1)."
+author: "Aylin Rodriguez-Jimenez"
+editor: visual
+---
+
+## Introducción
+
+Las tablas de vida resumen cómo cambian la supervivencia y la mortalidad de una población con la edad. Son una herramienta básica de la ecología de poblaciones porque permiten construir curvas de supervivencia y compararlas con los modelos teóricos Tipo I, Tipo II y Tipo III. En esta práctica se construyeron tablas de vida en R a partir de registros funerarios de dos cementerios de Costa Rica. Los datos de Heredia los recolectó el grupo del curso del año anterior y los de San José se recolectaron durante la Gira 1 en el Cementerio General.
+
+## Objetivo
+
+El objetivo de esta práctica fue construir y analizar tablas de vida a partir de registros de mortalidad humana. Se buscó describir el patrón de supervivencia, compararlo con las curvas teóricas Tipo I, II y III, y determinar si la distribución de las edades de muerte difería entre Heredia y San José y, de forma secundaria, entre mujeres y hombres.
+
+## Metodología
+
+De cada lápida se registraron el sexo y los años de nacimiento y de muerte. En R se unieron los datos de ambas localidades con el paquete Tidyverse. La edad de muerte se calculó como la diferencia entre el año de muerte y el de nacimiento. Se excluyeron los registros con edades menores que 0 o mayores que 110 años, y los individuos se agruparon en 21 clases de edad. Para cada localidad se calcularon dₓ, nₓ, lₓ y qₓ, y la tabla de vida se presentó como cuadro con el paquete gt. Las figuras se elaboraron con ggplot2 y cowplot. Las edades de muerte entre localidades y entre sexos se compararon con las pruebas de Kolmogorov-Smirnov y U de Mann-Whitney.
+
+## Resultados
+
+Se analizaron 2763 registros: 1403 de Heredia y 1360 de San José. En ambas localidades la supervivencia se mantuvo alta durante las edades tempranas e intermedias. Hasta los 45 años seguía vivo más del 80 % de la cohorte (lₓ = 0.83 en Heredia y 0.81 en San José). Después la supervivencia cayó de forma pronunciada: la mortalidad por intervalo (qₓ) superó 0.25 a partir de los 76 años. Este patrón corresponde a una curva Tipo I (Figura 1). La distribución de las edades de muerte no difirió entre Heredia y San José (KS: D = 0.08, p = 0.24; Mann-Whitney: W = 965357, p = 0.589). En cambio, las mujeres mostraron mayor supervivencia que los hombres en todas las edades adultas y murieron a edades más avanzadas, con una mediana cercana a 77 años frente a 68 en los hombres (KS: D = 0.178, p \< 0.001; Mann-Whitney: W = 1167587, p \< 0.001).
+
+![**Figura 1.** A) Curvas de supervivencia (lₓ) de mujeres y hombres a partir de registros funerarios de los cementerios de Heredia y San José, Costa Rica. B) Distribución de las edades de muerte por sexo en ambas localidades, en el curso de Ecología de Poblaciones y Comunidades, 2026.](images/figura_2_comparaciones.jpg)
+
+## Conclusiónes
+
+En este ejercicio aprendí a construir una tabla de vida completa en R, desde los datos crudos hasta los cuadros, las figuras y las pruebas estadísticas, sin modificar nada a mano en hojas de cálculo. La mayor dificultad fue la calidad de los datos de campo: algunos registros tenían edades de muerte imposibles o fechas incompletas que hubo que revisar y excluir. Además, los registros funerarios no representan una cohorte real. Este mismo flujo de trabajo podría aplicarse a otras especies con datos de edad de muerte o de supervivencia, por ejemplo, en estudios de fauna silvestre o en poblaciones manejadas.

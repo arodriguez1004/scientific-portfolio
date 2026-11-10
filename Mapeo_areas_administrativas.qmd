@@ -1,0 +1,27 @@
+---
+title: "Mapeo de áreas administrativas y regiones biogeográficas."
+author: "Aylin Rodriguez-Jimenez"
+editor: visual
+---
+
+## Introducción
+
+Conocer dónde se distribuye una especie, tanto en unidades administrativas como en regiones biogeográficas, es la base para evaluar su estado de conservación y planificar su manejo. En esta práctica se utilizaron las ocurrencias depuradas de la rana *Craugastor fitzingeri,* especie de ejemplo del curso, descargadas de GBIF e iNaturalist en la Práctica 3. Con ellas se describió su distribución por provincia, por cantón y por región herpetofaunística de Savage en Costa Rica. En paralelo se aplicó el mismo procedimiento a la especie de estudio, *Espadarana prosoblepon.*
+
+## Objetivo
+
+El objetivo de esta práctica fue cuantificar y mapear la distribución de las ocurrencias de una especie en las provincias, los cantones y las regiones biogeográficas de Costa Rica. También se describieron los patrones temporales y geográficos de los registros.
+
+## Metodología
+
+Primero se aplicó una limpieza final a las ocurrencias. Se eliminaron las coordenadas inválidas, los ceros, los registros con latitud y longitud iguales y los centroides administrativos detectados con CoordinateCleaner. Ningún registro fue eliminado en esta etapa. Con esto se generaron dos juegos de datos: uno con todos los registros válidos (3021), para el análisis por cantón, y otro sin las 97 coordenadas oscurecidas de iNaturalist (2924), para análisis espaciales finos. Luego, con los paquetes sf y Tidyverse, las ocurrencias se unieron espacialmente a las capas de provincias, cantones y regiones de Savage. Las ocurrencias costeras que quedaron fuera de los polígonos se asignaron a la región más cercana. Los mapas se elaboraron con tmap, y los gráficos de observaciones por cantón, por año, por latitud y longitud y de primera observación por cantón se hicieron con ggplot2. El procedimiento se realizó con *C. fitzingeri* y se replicó con *E. prosoblepon.*
+
+## Resultados
+
+El juego de datos final de *C. fitzingeri* tuvo 3021 ocurrencias: 487 de GBIF y 2534 de iNaturalist. Puntarenas fue la provincia con más registros (más de 1000), seguida de Heredia (≈ 600) y Alajuela (≈ 450). Cartago y Guanacaste tuvieron los menores números. Entre las regiones de Savage, la mayoría de las ocurrencias se ubicó en las tierras bajas del Caribe (más de 1000) y del Pacífico sur (≈ 900). Las tierras altas casi no tuvieron registros, lo que concuerda con una especie de tierras bajas (Figura 1). En cambio, *E. prosoblepon* se concentró en la franja premontana de las laderas de las cordilleras.
+
+![**Figura 1.** Número de ocurrencias de *Craugastor fitzingeri* por región herpetofaunística de Savage en Costa Rica, a partir de los datos descargados desde las API de GBIF e iNaturalist y depurados en el curso de Ecología de Poblaciones y Comunidades, 2026.](images/craugastor_fitzingeri_savage.jpg)
+
+## Conclusiónes
+
+En este ejercicio aprendí a cruzar ocurrencias con capas vectoriales para resumir la distribución de una especie en unidades administrativas y biogeográficas, y a representarla en mapas temáticos. Una dificultad fue que algunas ocurrencias costeras quedaban fuera de los polígonos y hubo que asignarlas a la región más cercana. Además, los conteos reflejan tanto la distribución real como el esfuerzo de muestreo, que suele ser mayor en zonas accesibles y turísticas. Al aplicar el mismo código a *E. prosoblepon* se obtuvo un patrón distinto, lo que muestra que el procedimiento sirve para cualquier especie. Esto permite identificar vacíos de información, priorizar áreas de muestreo o apoyar decisiones de conservación a nivel cantonal.

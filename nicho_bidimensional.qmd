@@ -1,0 +1,27 @@
+---
+title: "Nicho bidimensional"
+author: "Aylin Rodriguez-Jimenez"
+editor: visual
+---
+
+## Introducción
+
+El nicho ecológico de una especie puede aproximarse comparando las condiciones ambientales donde ha sido registrada con las condiciones disponibles en toda el área de estudio. Representar esa comparación en dos dimensiones (por ejemplo, temperatura y precipitación) permite identificar qué parte del espacio ambiental ocupa la especie. Además, permite detectar cambios en el tiempo, como la pérdida de poblaciones en ciertos ambientes.
+
+## Objetivo
+
+El objetivo de esta práctica fue caracterizar el nicho bidimensional de *Craugastor fitzingeri*, especie de ejemplo del curso, comparando las condiciones ambientales de sus ocurrencias con el ambiente disponible en Costa Rica. Además, se evaluó con un ejemplo de declive (*Craugastor ranoides*) cómo cambió el espacio ambiental ocupado antes y después del año 2000. El mismo procedimiento se aplicó a la especie de estudio, *Espadarana prosoblepon*.
+
+## Metodología
+
+Se utilizaron las ocurrencias depuradas sin coordenadas oscurecidas de la práctica anterior. Con el paquete terra se importaron capas de temperatura media anual (BIO1) y precipitación anual (BIO12) de WorldClim, de elevación y de huella humana. Las capas se igualaron en extensión y resolución mediante recorte y remuestreo bilineal. Luego se extrajeron los valores ambientales de todas las celdas del país (background) y de cada ocurrencia. Con ggplot2 se graficaron las combinaciones temperatura–precipitación, temperatura–elevación y elevación–huella humana. Para *C. ranoides*, las ocurrencias se clasificaron en registros anteriores y posteriores al año 2000.
+
+## Resultados
+
+Se analizaron 2924 ocurrencias de *C. fitzingeri*. La especie ocupó solo una parte del espacio ambiental disponible: se concentró en zonas cálidas, entre 20 y 27 °C, y húmedas, entre 2000 y 4500 mm anuales, con la mayor densidad de registros cerca de los 26 °C (Figura 1). Esto corresponde a elevaciones por debajo de los 1500 m, con muy pocos registros sobre los 2000 m. Las condiciones frías de las tierras altas quedaron sin ocupar. *E. prosoblepon* ocupó un rango térmico más amplio y más fresco, entre 17 y 27 °C, centrado en elevaciones medias de 500 a 1800 m. En el ejemplo de *C. ranoides*, los registros anteriores al 2000 abarcaban un amplio rango de condiciones húmedas, entre 16 y 27 °C y hasta 1800 m. En cambio, los registros posteriores al 2000 se restringen a condiciones cálidas y secas (cerca de 27 °C y menos de 1800 mm), correspondientes al bosque seco de Santa Elena.
+
+![**Figura 1.** Nicho bidimensional de *Craugastor fitzingeri* en Costa Rica, según la temperatura media anual y la precipitación anual. Los puntos rojos son las ocurrencias de la especie y los grises son las condiciones disponibles en el país (background). Elaborado a partir de datos de GBIF, iNaturalist y WorldClim en el curso de Ecología de Poblaciones y Comunidades, 2026.](images/craugastor_fitzingeri_env_temp_prec.jpg)
+
+## Conclusiónes
+
+En este ejercicio aprendí a combinar ocurrencias con capas ambientales para describir el nicho de una especie y comparar especies con requerimientos distintos. La mayor dificultad fue preparar los rasters, porque tenían resoluciones y extensiones diferentes y hubo que igualarlos antes de extraer los valores. También hay que revisar con cuidado las figuras: en el ejemplo de *C. ranoides*, las etiquetas de la leyenda no coincidían con los datos. Esta herramienta es útil para detectar contracciones del nicho asociadas a declives poblacionales, como en *C. ranoides,* y como paso previo a modelos de distribución de especies.

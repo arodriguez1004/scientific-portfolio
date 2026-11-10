@@ -23,7 +23,7 @@ En esta práctica se documentará la creación de una biblioteca bibliográfica 
 ::: portfolio-item
 ### 📚 Manejo de datos con Tidyverse
 
-En esta práctica se documentará la importación y el manejo de datos con el paquete Tidyverse en Rstudio.
+En esta práctica se importará, ordenará y visualizará un juego de datos desordenado de observaciones de mamíferos africanos con el conjunto de paquetes Tidyverse de Rstudio.
 
 [Ver práctica →](tidyverse.qmd)
 :::
@@ -31,9 +31,57 @@ En esta práctica se documentará la importación y el manejo de datos con el pa
 ::: portfolio-item
 ### 📚 Descarga de ocurrencias de GBIF y iNaturalist
 
-En esta práctica se descargará y limpiará un dataset de ocurrencias obtenidas mediante los API de GBIF y iNaturalist, con los paquetes de rgbif y rinat
+En esta práctica se descargará y limpiará un juego de datos de ocurrencias obtenidas mediante las API de GBIF e iNaturalist con los paquetes rgbif y rinat. La depuración de coordenadas se hará con CoordinateCleaner y el mapeo, con sf y tmap.
 
 [Ver práctica →](occs.qmd)
+:::
+
+::: portfolio-item
+### 📚 Generación de tablas de vida (Gira 1).
+
+En esta práctica se construirán tablas de vida a partir de registros funerarios de los cementerios de Heredia y San José. Con ellas se compararán las curvas de supervivencia observadas con los modelos teóricos Tipo I, II y III, y las edades de muerte entre localidades y sexos.
+
+[Ver práctica →](tablas_de_vida.qmd)
+:::
+
+::: portfolio-item
+### 📚 Mapeo de áreas administrativas y regiones biogeográficas.
+
+En esta práctica se cruzarán las ocurrencias depuradas de una especie con capas de provincias, cantones y regiones biogeográficas de Savage para cuantificar y mapear su distribución en Costa Rica con los paquetes sf y tmap.
+
+[Ver práctica →](mapeo_areas_administrativas.qmd)
+:::
+
+::: portfolio-item
+### 📚 Nicho bidimensional.
+
+En esta práctica se extraerán variables de temperatura, precipitación, elevación y huella humana para las ocurrencias de una especie y se compararán con el ambiente disponible en Costa Rica, con el fin de caracterizar su nicho bidimensional con los paquetes terra y ggplot2.
+
+[Ver práctica →](nicho_bidimensional.qmd)
+:::
+
+::: portfolio-item
+### 📚 Distribución espacial (Gira 2).
+
+En esta práctica se contarán individuos de dos especies de plantas en cuadrículas de 1 m² para determinar su patrón de distribución espacial (aleatorio, agrupado o uniforme). El análisis usará el índice de dispersión y el ajuste a las distribuciones de Poisson y binomial negativa.
+
+[Ver práctica →](distribucion_espacial.qmd)
+:::
+
+::: portfolio-item
+### 📚 Estimación de densidad por Kernel (KDE).
+
+En esta práctica se estimará la densidad de localidades de una especie en Costa Rica mediante un kernel gaussiano con los paquetes de spatstat y se delimitarán las zonas de mayor concentración de registros con polígonos del 50 % y 95 %.
+
+[Ver práctica →](densidad_kernel.qmd)
+:::
+
+::: portfolio-item
+### 📚 Índices de diversidad.
+
+En esta práctica se calcularán índices de diversidad alfa, beta y gamma (riqueza, Shannon, Simpson, Pielou, Jaccard y Sorensen) para comunidades vegetales de tres sitios del Valle de Coachella, California, con el paquete vegan.
+
+[Ver práctica →](indices_diversidad.qmd)
 :::
 
 ------------------------------------------------------------------------

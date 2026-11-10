@@ -1,0 +1,27 @@
+---
+title: "Distribución espacial (Gira 2)."
+author: "Aylin Rodriguez-Jimenez"
+editor: visual
+---
+
+## Introducción
+
+La forma en que los individuos de una población se distribuyen en el espacio (uniforme, aleatoria o agrupada) refleja procesos como la dispersión de semillas, la heterogeneidad del hábitat y las interacciones entre individuos. Describir este patrón es un paso básico en ecología de poblaciones y en el diseño de muestreos. En esta práctica se evaluó la distribución espacial de dos plantas herbáceas en el Parque Recreativo de la Universidad para la Paz, en Ciudad Colón: *Elephantopus mollis* (Asteraceae) y *Rhynchospora nervosa* (Cyperaceae).
+
+## Objetivo
+
+El objetivo de esta práctica fue estimar la abundancia de *E. mollis* y *R. nervosa* mediante cuadrículas. Luego se determinó si su patrón de distribución espacial era aleatorio, agrupado o uniforme y se evaluó el ajuste de los conteos a las distribuciones teóricas de Poisson y binomial negativa.
+
+## Metodología
+
+En un área de 100 × 100 m se establecieron 50 sectores de 10 × 20 m. En cada sector se colocó al azar una cuadrícula de 1 × 1 m. En cada cuadrícula se registraron su posición (X, Y), el número de individuos de *E. mollis* y el número de macollas independientes de *R. nervosa*. En R, con Tidyverse, se calcularon la media, la varianza y el índice de dispersión (ID = varianza/media). La desviación respecto de la aleatoriedad se evaluó con una prueba de χ² de dispersión. El ajuste de los conteos a la distribución binomial negativa (*E. mollis*) y a la de Poisson (*R. nervosa*) se evaluó con pruebas de bondad de ajuste de χ²; los parámetros de la binomial negativa se estimaron con el paquete MASS. Los resultados se resumieron en un cuadro con gt y las figuras se elaboraron con ggplot2 y cowplot.
+
+## Resultados
+
+Se contaron 368 individuos de *E. mollis* y 115 macollas de *R. nervosa* en las 50 cuadrículas. *E. mollis* fue más abundante (7.36 ind/m²) y muy variable entre cuadrículas, de 0 a 23 individuos (varianza = 28.81). Su ID fue de 3.91, lo que indica una distribución agrupada (χ² = 191.8, gl = 49, P \< 0.001). Sus conteos fueron compatibles con una distribución binomial negativa (χ² = 0.3, gl = 2, P = 0.871). En cambio, *R. nervosa* presentó una media (2.30) y una varianza (2.26) casi iguales, con un ID de 0.98. Su patrón no difirió del aleatorio (χ² = 48.0, gl = 49, P = 0.512) y sus conteos se ajustaron a una distribución de Poisson (χ² = 2.8, gl = 2, P = 0.249; Figura 1). Ambos resultados coinciden con las predicciones planteadas.
+
+![**Figura 1.** Frecuencias observadas (barras) y esperadas (puntos y línea) del número de individuos por cuadrícula de 1 m² de A) *Elephantopus mollis*, según una distribución binomial negativa, y B) *Rhynchospora nervosa*, según una distribución de Poisson, en el Parque Recreativo de la Universidad para la Paz, Ciudad Colón, en el curso de Ecología de Poblaciones y Comunidades, 2026.](images/figura_2_distribuciones_teoricas.jpg)
+
+## Conclusiónes
+
+En este ejercicio aprendí a evaluar el patrón espacial de una población combinando una medida descriptiva (el índice de dispersión) con pruebas estadísticas y el ajuste a distribuciones teóricas. Una dificultad fue definir en el campo qué contar como individuo, sobre todo en *R. nervosa*, donde hubo que contar macollas y no tallos. Otra fue interpretar los resultados sin atribuir causas que no se midieron: el patrón agrupado de *E. mollis* podría deberse a la heterogeneidad del suelo o a la dispersión limitada de sus semillas, pero esas variables no se evaluaron. Esta metodología puede aplicarse a cualquier organismo sésil o poco móvil, como plantas, hongos o invertebrados del suelo, y sirve para diseñar muestreos más eficientes.

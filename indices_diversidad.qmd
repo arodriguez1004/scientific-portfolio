@@ -1,0 +1,27 @@
+---
+title: "Índices de diversidad"
+author: "Aylin Rodriguez-Jimenez"
+editor: visual
+---
+
+## Introducción
+
+Los índices de diversidad resumen en pocos valores la estructura de una comunidad: cuántas especies tiene (riqueza), cómo se reparten los individuos entre ellas (equidad y dominancia) y cuánto se parecen las comunidades de distintos sitios (diversidad beta). Son herramientas básicas para comparar comunidades, evaluar el efecto de perturbaciones y priorizar áreas de conservación. En esta práctica se analizaron datos de vegetación de parcelas en el Valle de Coachella, en el sur de California.
+
+## Objetivo
+
+El objetivo de esta práctica fue calcular y comparar la diversidad alfa, beta y gamma de las comunidades vegetales de tres sitios del Valle de Coachella, utilizando los índices de Shannon, Simpson y Pielou y los coeficientes de similitud de Jaccard y Sorensen.
+
+## Metodología
+
+Se utilizó una base de datos de registros de plantas en parcelas de tres sitios ubicados en diferentes ecorregiones: el desierto de Colorado, el desierto de Mojave y las montañas del sur de California. Con sf y tmap se elaboró un mapa del área de estudio. Con Tidyverse se construyeron matrices de comunidad por sitio y por parcela. Primero se calculó el índice de Shannon a mano para el sitio 3. Luego, con el paquete vegan, se calcularon la riqueza (S), la diversidad de Shannon (H’), la diversidad de Simpson (1 − D), la dominancia (D) y la equidad de Pielou (J) por sitio y por parcela. La similitud entre sitios se evaluó con los coeficientes de Jaccard y Sorensen a partir de datos de presencia y ausencia, y la diversidad gamma se calculó con todos los datos juntos.
+
+## Resultados
+
+Se registraron 8374 individuos de 31 especies (diversidad gamma: H’ = 2.90; 1 − D = 0.92; J = 0.85). Los sitios 1 y 2 tuvieron una riqueza y una diversidad similares: el sitio 1 tuvo 4196 individuos, 28 especies y H’ = 2.85, y el sitio 2 tuvo 3956 individuos, 27 especies y H’ = 2.69. En ambos dominó *Larrea tridentata*, con el 18 % y el 21 % de los individuos, respectivamente. El sitio 3 fue mucho más pobre, con 222 individuos y 12 especies (H’ = 2.35), pero tuvo la mayor equidad (J = 0.95). Esto se refleja en una curva de rango-abundancia más corta y menos inclinada (Figura 1). Los sitios 1 y 2 compartieron casi todas sus especies (Jaccard = 0.96; Sorensen = 0.98). En cambio, el sitio 3 tuvo una similitud baja con ambos (Jaccard = 0.29–0.30; Sorensen = 0.45–0.46). Además, fue el único con *Agave deserti* y con las especies exóticas *Schismus barbatus* y *Brassica tournefortii.*
+
+![**Figura 1.** A) Curvas de rango-abundancia y B) diversidad alfa por parcela (riqueza, diversidad de Shannon, diversidad de Simpson y equidad de Pielou) de la vegetación en tres sitios del Valle de Coachella, California, en el curso de Ecología de Poblaciones y Comunidades, 2026.](images/diversity_summary.jpg)
+
+## Conclusiónes
+
+En este ejercicio aprendí a calcular índices de diversidad alfa, beta y gamma en R. También aprendí que cada índice mide un aspecto distinto de la comunidad: un sitio puede tener pocas especies y, aun así, alta equidad, como el sitio 3. La principal dificultad fue interpretar los índices en conjunto y no por separado. Además, la riqueza depende del esfuerzo de muestreo, y el sitio 3 tuvo muchos menos individuos registrados que los otros dos. Estas herramientas pueden aplicarse a cualquier grupo taxonómico, por ejemplo para comparar comunidades de anfibios entre hábitats, evaluar el efecto de perturbaciones o especies invasoras o seleccionar sitios prioritarios para conservación.
