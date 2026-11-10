@@ -1,0 +1,576 @@
+[
+  {
+    "objectID": "zotero.html",
+    "href": "zotero.html",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "",
+    "text": "Esta práctica consisitió en el uso del software zotero como una herramienta para la elaboración de referencias bibliograficas, teniendo en cuenta los diferentes tipos de formato y como zotero simplifica el cambio del mismo."
+  },
+  {
+    "objectID": "zotero.html#introducción",
+    "href": "zotero.html#introducción",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "",
+    "text": "Esta práctica consisitió en el uso del software zotero como una herramienta para la elaboración de referencias bibliograficas, teniendo en cuenta los diferentes tipos de formato y como zotero simplifica el cambio del mismo."
+  },
+  {
+    "objectID": "zotero.html#objetivos",
+    "href": "zotero.html#objetivos",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Objetivos",
+    "text": "Objetivos\n\nAl finalizar este tutorial, el estudiante será capaz de:\nCrear y organizar una biblioteca bibliográfica en Zotero.\nIncorporar referencias mediante DOI, archivos RIS y Zotero Connector.\nRevisar y corregir los metadatos de una referencia.\nInstalar y utilizar un estilo bibliográfico.\nInsertar citas y bibliografías automáticamente en Microsoft Word.\nIncorporar referencias que no corresponden a artículos científicos, como reportes, páginas web y software.\nCitar R, RStudio y paquetes de R."
+  },
+  {
+    "objectID": "zotero.html#metodología",
+    "href": "zotero.html#metodología",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Metodología",
+    "text": "Metodología\nPrimeramente, se creó una colección en zotero llamada tutorial_zotero. Se realizó la integración de esta herramienta en el software Word. Se incorporaron diversas referencias brindadas por el profesor a zotero mediante diversos métodos, por archivo RIS, por DOI y por medio de un zotero connector de Chrome. Se eleigió el estilo bibliografico y se realizó la escritura de diversos textos en bases a los titulos para poder realizar las citas parenteticas y de párrafo."
+  },
+  {
+    "objectID": "zotero.html#resultados",
+    "href": "zotero.html#resultados",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Resultados",
+    "text": "Resultados\nSe obtuvo una carpeta en zotero llama tutorial_zotero donde se albergaron todas las diversas citas utilizadas en la práctica. Además se obtuvo un Word con citas parenteticas y de parrafo en base a los textos referenciados.\n\n\n\nFigura 1. Toma de pantalla de la biblioteca creada en esta práctica\n\n\nCita 1\nLa epidemia tuvo un curso prolongado, duró durante las estaciones lluviosa y seca, y alcanzó tasas de ataque de hasta el 5% en ciertos distritos (Villarejos et al. 1972)\nAdemás, se obtuvo un cuadro con los diversos métodos utilizados y en que ocasiones utilizarlos.\nCuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zotero.\n\n\n\n\n\n\n\nMétodo\n¿Cuándo utilizarlo?\n\n\n\n\nDOI\nCuando la publicación tiene un DOI conocido\n\n\nArchivo RIS\nCuando la revista o base de datos permite exportar la referencia\n\n\nZotero Connector\nPara capturar referencias directamente desde el navegador\n\n\nEntrada manual\nCuando la información no puede importarse automáticamente\n\n\n\nCita 2\nEste crecimiento ha estado acompañado de cambios a gran escala en la cobertura y el uso del suelo, generalmente en favor de la agricultura. Se combinó información sobre la cobertura y el uso del suelo, así como sobre el crecimiento de la población humana, para generar un mapa compuesto que muestra las tasas de transformación del mundo por parte de los seres humanos (Gallant et al. 2007)"
+  },
+  {
+    "objectID": "zotero.html#conclusiónes",
+    "href": "zotero.html#conclusiónes",
+    "title": "Gestión de referencias bibliográficas con Zotero",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\n\nSe usó la herramienta zotero como parte vital para el orden de las citas y la veracidad de estos textos\nSe utilizaron las extensiones que brinda zotero tanto en word como en Chrome.\nSe citaron diversas fuentes, tanto manuelaes, protocolos y articulos cientificos, apreciando la importancia de todos estos archivos."
+  },
+  {
+    "objectID": "template.html#objetivo",
+    "href": "template.html#objetivo",
+    "title": "template",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "template.html#metodología",
+    "href": "template.html#metodología",
+    "title": "template",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "template.html#resultados",
+    "href": "template.html#resultados",
+    "title": "template",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "template.html#interpretación",
+    "href": "template.html#interpretación",
+    "title": "template",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "template.html#conclusiónes",
+    "href": "template.html#conclusiónes",
+    "title": "template",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes"
+  },
+  {
+    "objectID": "template.html#referencias",
+    "href": "template.html#referencias",
+    "title": "template",
+    "section": "Referencias",
+    "text": "Referencias"
+  },
+  {
+    "objectID": "práctica-ejemplo.html",
+    "href": "práctica-ejemplo.html",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#objetivo",
+    "href": "práctica-ejemplo.html#objetivo",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "",
+    "text": "Describa brevemente qué se pretende aprender o realizar en la práctica."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#materiales-y-herramientas",
+    "href": "práctica-ejemplo.html#materiales-y-herramientas",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Materiales y herramientas",
+    "text": "Materiales y herramientas\n\nRStudio\nQuarto\nGit\nGitHub"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#procedimiento",
+    "href": "práctica-ejemplo.html#procedimiento",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Procedimiento",
+    "text": "Procedimiento\nExplique de forma ordenada los pasos realizados durante la práctica.\nPaso 1:"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#resultados",
+    "href": "práctica-ejemplo.html#resultados",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Resultados",
+    "text": "Resultados\nIncluya aquí los principales resultados obtenidos.\nSe logró la creación exitosa de un sitio web."
+  },
+  {
+    "objectID": "práctica-ejemplo.html#figuras-y-tablas",
+    "href": "práctica-ejemplo.html#figuras-y-tablas",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Figuras y tablas",
+    "text": "Figuras y tablas\n\n\n\nFigura 1. Imagen del sitio web personalizado"
+  },
+  {
+    "objectID": "práctica-ejemplo.html#reflexión-final",
+    "href": "práctica-ejemplo.html#reflexión-final",
+    "title": "Práctica 1: Creación de sitio web personalizado",
+    "section": "Reflexión final",
+    "text": "Reflexión final\nResponda brevemente:\n\n¿Qué aprendí?\n¿Qué dificultad encontré?\nLas extensiones a veces pueden mostrar dificultad para mostrarse, por ejemplo en las imagenes. Aunque la extensión sea similar, asi sea una letra de diferencia, no la muestra\n¿Cómo podría aplicar esta herramienta o conocimiento en otro contexto?"
+  },
+  {
+    "objectID": "occs.html",
+    "href": "occs.html",
+    "title": "Descarga de ocurrencias con Rstudio desde Inaturalist y GBIF",
+    "section": "",
+    "text": "En esta práctica se utilizaron los paquetes rgbif y rinat para descargar ocurrencias de anuros en Costa Rica. Se trabajó con Craugastor fitzingeri, la especie de ejemplo del curso, y en paralelo se aplicó el mismo procedimiento a Espadarana prosoblepon, la especie de estudio. Para ordenar los datos se usó Tidyverse, y la limpieza de los datos espaciales se hizo principalmente con el paquete CoordinateCleaner. El mapeo de ocurrencias se realizó con los paquetes sf y tmap. El objetivo de esta práctica fue aprender el proceso de descarga de datos de ocurrencia desde una API y su posterior limpieza para crear juegos de datos robustos que puedan utilizarse en análisis espaciales. Después de la limpieza se obtuvo un juego de datos preliminar de C. fitzingeri con 3021 ocurrencias, de las cuales 487 provenían de GBIF y 2534 de iNaturalist (Figura 1), estas últimas incluyendo 97 registros con coordenadas oscurecidas. En este ejercicio aprendí las bases de la importación de datos de GBIF e iNaturalist; sin embargo, existe alta heterogeneidad en los datos descargados y el proceso de limpieza es complejo. Una ventaja es que los códigos utilizados funcionan para cualquier clado y en cualquier región, como se comprobó al aplicarlos también a E. prosoblepon.\n\n\n\nFigura 1. Mapa de Costa Rica con las ocurrencias de Craugastor fitzingeri por fuente, a partir de los datos descargados desde las API de GBIF e iNaturalist en el curso de Ecología de Poblaciones y Comunidades, 2026.."
+  },
+  {
+    "objectID": "Mapeo_areas_administrativas.html",
+    "href": "Mapeo_areas_administrativas.html",
+    "title": "Mapeo de áreas administrativas y regiones biogeográficas.",
+    "section": "",
+    "text": "Conocer dónde se distribuye una especie, tanto en unidades administrativas como en regiones biogeográficas, es la base para evaluar su estado de conservación y planificar su manejo. En esta práctica se utilizaron las ocurrencias depuradas de la rana Craugastor fitzingeri, especie de ejemplo del curso, descargadas de GBIF e iNaturalist en la Práctica 3. Con ellas se describió su distribución por provincia, por cantón y por región herpetofaunística de Savage en Costa Rica. En paralelo se aplicó el mismo procedimiento a la especie de estudio, Espadarana prosoblepon."
+  },
+  {
+    "objectID": "Mapeo_areas_administrativas.html#introducción",
+    "href": "Mapeo_areas_administrativas.html#introducción",
+    "title": "Mapeo de áreas administrativas y regiones biogeográficas.",
+    "section": "",
+    "text": "Conocer dónde se distribuye una especie, tanto en unidades administrativas como en regiones biogeográficas, es la base para evaluar su estado de conservación y planificar su manejo. En esta práctica se utilizaron las ocurrencias depuradas de la rana Craugastor fitzingeri, especie de ejemplo del curso, descargadas de GBIF e iNaturalist en la Práctica 3. Con ellas se describió su distribución por provincia, por cantón y por región herpetofaunística de Savage en Costa Rica. En paralelo se aplicó el mismo procedimiento a la especie de estudio, Espadarana prosoblepon."
+  },
+  {
+    "objectID": "Mapeo_areas_administrativas.html#objetivo",
+    "href": "Mapeo_areas_administrativas.html#objetivo",
+    "title": "Mapeo de áreas administrativas y regiones biogeográficas.",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue cuantificar y mapear la distribución de las ocurrencias de una especie en las provincias, los cantones y las regiones biogeográficas de Costa Rica. También se describieron los patrones temporales y geográficos de los registros."
+  },
+  {
+    "objectID": "Mapeo_areas_administrativas.html#metodología",
+    "href": "Mapeo_areas_administrativas.html#metodología",
+    "title": "Mapeo de áreas administrativas y regiones biogeográficas.",
+    "section": "Metodología",
+    "text": "Metodología\nPrimero se aplicó una limpieza final a las ocurrencias. Se eliminaron las coordenadas inválidas, los ceros, los registros con latitud y longitud iguales y los centroides administrativos detectados con CoordinateCleaner. Ningún registro fue eliminado en esta etapa. Con esto se generaron dos juegos de datos: uno con todos los registros válidos (3021), para el análisis por cantón, y otro sin las 97 coordenadas oscurecidas de iNaturalist (2924), para análisis espaciales finos. Luego, con los paquetes sf y Tidyverse, las ocurrencias se unieron espacialmente a las capas de provincias, cantones y regiones de Savage. Las ocurrencias costeras que quedaron fuera de los polígonos se asignaron a la región más cercana. Los mapas se elaboraron con tmap, y los gráficos de observaciones por cantón, por año, por latitud y longitud y de primera observación por cantón se hicieron con ggplot2. El procedimiento se realizó con C. fitzingeri y se replicó con E. prosoblepon."
+  },
+  {
+    "objectID": "Mapeo_areas_administrativas.html#resultados",
+    "href": "Mapeo_areas_administrativas.html#resultados",
+    "title": "Mapeo de áreas administrativas y regiones biogeográficas.",
+    "section": "Resultados",
+    "text": "Resultados\nEl juego de datos final de C. fitzingeri tuvo 3021 ocurrencias: 487 de GBIF y 2534 de iNaturalist. Puntarenas fue la provincia con más registros (más de 1000), seguida de Heredia (≈ 600) y Alajuela (≈ 450). Cartago y Guanacaste tuvieron los menores números. Entre las regiones de Savage, la mayoría de las ocurrencias se ubicó en las tierras bajas del Caribe (más de 1000) y del Pacífico sur (≈ 900). Las tierras altas casi no tuvieron registros, lo que concuerda con una especie de tierras bajas (Figura 1). En cambio, E. prosoblepon se concentró en la franja premontana de las laderas de las cordilleras.\n\n\n\nFigura 1. Número de ocurrencias de Craugastor fitzingeri por región herpetofaunística de Savage en Costa Rica, a partir de los datos descargados desde las API de GBIF e iNaturalist y depurados en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "Mapeo_areas_administrativas.html#conclusiónes",
+    "href": "Mapeo_areas_administrativas.html#conclusiónes",
+    "title": "Mapeo de áreas administrativas y regiones biogeográficas.",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí a cruzar ocurrencias con capas vectoriales para resumir la distribución de una especie en unidades administrativas y biogeográficas, y a representarla en mapas temáticos. Una dificultad fue que algunas ocurrencias costeras quedaban fuera de los polígonos y hubo que asignarlas a la región más cercana. Además, los conteos reflejan tanto la distribución real como el esfuerzo de muestreo, que suele ser mayor en zonas accesibles y turísticas. Al aplicar el mismo código a E. prosoblepon se obtuvo un patrón distinto, lo que muestra que el procedimiento sirve para cualquier especie. Esto permite identificar vacíos de información, priorizar áreas de muestreo o apoyar decisiones de conservación a nivel cantonal."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inicio",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
+  },
+  {
+    "objectID": "index.html#estudiante-de-bachillerato-en-biología-tropical",
+    "href": "index.html#estudiante-de-bachillerato-en-biología-tropical",
+    "title": "Inicio",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\nVer mi perfil\nExplorar mi portafolio"
+  },
+  {
+    "objectID": "index.html#bienvenidoa",
+    "href": "index.html#bienvenidoa",
+    "title": "Inicio",
+    "section": "Bienvenido(a)",
+    "text": "Bienvenido(a)\nEste sitio web constituye mi portafolio digital académico, donde documentaré las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nEste portafolio utiliza herramientas de ciencia reproducible como R, Quarto, Git y GitHub, permitiendo organizar y compartir mi trabajo de manera profesional."
+  },
+  {
+    "objectID": "index.html#contenido-del-sitio",
+    "href": "index.html#contenido-del-sitio",
+    "title": "Inicio",
+    "section": "Contenido del sitio",
+    "text": "Contenido del sitio\n\n\nPerfil\nInformación personal, intereses académicos y experiencia.\nIr al perfil →\n\n\nPortafolio\nRegistro de las prácticas, proyectos y productos desarrollados durante el semestre.\nVer el portafolio →\n\n\n\n\nLa ciencia solo adquiere valor cuando puede ser comunicada y reproducida."
+  },
+  {
+    "objectID": "index.html#herramientas-y-afiliación",
+    "href": "index.html#herramientas-y-afiliación",
+    "title": "Inicio",
+    "section": "Herramientas y afiliación",
+    "text": "Herramientas y afiliación\nEste portafolio fue desarrollado con herramientas de ciencia reproducible.\n\n\n\n\n\nÚltima actualización: 10 de noviembre 2026"
+  },
+  {
+    "objectID": "densidad_kernel.html",
+    "href": "densidad_kernel.html",
+    "title": "Estimación de densidad por Kernel (KDE)",
+    "section": "",
+    "text": "La estimación de densidad por kernel (KDE) convierte un conjunto de localidades puntuales en una superficie continua que muestra dónde se concentran los registros de una especie. Es útil para identificar núcleos de ocurrencia y delimitar áreas de uso a partir de datos de presencia. Sin embargo, los resultados dependen del ancho de banda (sigma) y del esfuerzo de muestreo, por lo que deben interpretarse con cuidado."
+  },
+  {
+    "objectID": "densidad_kernel.html#introducción",
+    "href": "densidad_kernel.html#introducción",
+    "title": "Estimación de densidad por Kernel (KDE)",
+    "section": "",
+    "text": "La estimación de densidad por kernel (KDE) convierte un conjunto de localidades puntuales en una superficie continua que muestra dónde se concentran los registros de una especie. Es útil para identificar núcleos de ocurrencia y delimitar áreas de uso a partir de datos de presencia. Sin embargo, los resultados dependen del ancho de banda (sigma) y del esfuerzo de muestreo, por lo que deben interpretarse con cuidado."
+  },
+  {
+    "objectID": "densidad_kernel.html#objetivo",
+    "href": "densidad_kernel.html#objetivo",
+    "title": "Estimación de densidad por Kernel (KDE)",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue estimar la densidad de localidades de Craugastor fitzingeri en Costa Rica mediante KDE e identificar las zonas de mayor concentración de registros con polígonos de 50 % y 95 % de la densidad acumulada."
+  },
+  {
+    "objectID": "densidad_kernel.html#metodología",
+    "href": "densidad_kernel.html#metodología",
+    "title": "Estimación de densidad por Kernel (KDE)",
+    "section": "Metodología",
+    "text": "Metodología\nSe utilizaron las ocurrencias depuradas sin coordenadas oscurecidas de C. fitzingeri obtenidas de GBIF e iNaturalist. Se eliminaron las coordenadas duplicadas, de modo que cada localidad se contó una sola vez, y se conservaron solo las localidades dentro de Costa Rica. Las coordenadas se proyectaron a CRTM05 (EPSG 5367) para trabajar en metros. Con los paquetes spatstat.geom y spatstat.explore se calculó un KDE gaussiano con un ancho de banda de 5000 m y una resolución de 500 m. La superficie se convirtió a raster y se recortó al territorio nacional con terra. A partir de la densidad acumulada se delimitaron los polígonos que contienen el 50 % y el 95 % de la masa del KDE, y los mapas se elaboraron con tmap. Espadarana prosoblepon no se analizó en esta práctica."
+  },
+  {
+    "objectID": "densidad_kernel.html#resultados",
+    "href": "densidad_kernel.html#resultados",
+    "title": "Estimación de densidad por Kernel (KDE)",
+    "section": "Resultados",
+    "text": "Resultados\nDe las 2924 ocurrencias de C. fitzingeri (487 de GBIF y 2437 de iNaturalist), quedaron 2351 localidades únicas después de eliminar las coordenadas repetidas. La mayor densidad, entre 1.5 y 1.8 localidades/km², se encontró en la zona de Sarapiquí, en las tierras bajas del Caribe norte. Le siguió la región de Arenal–San Carlos. El polígono del 50 % estuvo formado por varios núcleos separados: Sarapiquí, San Carlos, el Pacífico central y sur (Quepos–Dominical), la península de Osa y la zona sur. El polígono del 95 % abarcó gran parte de las tierras bajas del Caribe y del Pacífico sur. Guanacaste y las tierras altas quedaron mayormente fuera de él (Figura 1).\n\n\n\nFigura 1. Regiones de 50 % (azul oscuro) y 95 % (amarillo) de la densidad kernel de localidades de Craugastor fitzingeri en Costa Rica (sigma = 5000 m), a partir de datos de GBIF e iNaturalist, en el curso de Ecología de Poblaciones y Comunidades, 2026. Los puntos negros son las localidades registradas."
+  },
+  {
+    "objectID": "densidad_kernel.html#conclusiónes",
+    "href": "densidad_kernel.html#conclusiónes",
+    "title": "Estimación de densidad por Kernel (KDE)",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí a transformar ocurrencias puntuales en una superficie de densidad continua y a delimitar zonas de concentración de registros. La principal dificultad fue la interpretación: la densidad refleja la concentración de localidades registradas y no la abundancia real de la especie. Por ejemplo, los núcleos coinciden con sitios muy visitados, como estaciones biológicas y zonas turísticas, lo que sugiere un fuerte sesgo de muestreo. Además, el resultado cambia según el valor de sigma que se elija. Esta herramienta puede aplicarse para identificar áreas prioritarias de conservación, estimar áreas de uso o ámbitos de hogar con datos de telemetría y detectar vacíos de muestreo en cualquier especie."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
+  },
+  {
+    "objectID": "about.html#estudiante-de-bachillerato-en-biología-tropical",
+    "href": "about.html#estudiante-de-bachillerato-en-biología-tropical",
+    "title": "Perfil",
+    "section": "",
+    "text": "Escuela de Ciencias Biológicas\nUniversidad Nacional, Costa Rica\n\n Correo\n GitHub\n ORCID\n LinkedIn"
+  },
+  {
+    "objectID": "about.html#biografía",
+    "href": "about.html#biografía",
+    "title": "Perfil",
+    "section": "Biografía",
+    "text": "Biografía\nSoy estudiante de Biología Tropical en la Universidad Nacional de Costa Rica. He trabajado con mamiferos, aves, anfibios y reptiles en conservación, monitoreo y estudio de comportamiento.Tambien he trabajado con educación ambiental y ciencia ciudadana. En la búsqueda de mis intereses, me he dado cuenta de que el estudio de comportamiento animal es realmente interesante y mi grupo favorito son los anfibios, sin embargo, estoy dispuesta a aprender y colaborar con respecto a cualquier rama de la biología y ser participe de la búsqueda de información y la comunicación de nuevos conocimientos."
+  },
+  {
+    "objectID": "about.html#áreas-de-interés",
+    "href": "about.html#áreas-de-interés",
+    "title": "Perfil",
+    "section": "Áreas de interés",
+    "text": "Áreas de interés\n\nEcología\nConservación\nBiogeografía\nEducación ambiental\nComportamiento animal\nHerpetología"
+  },
+  {
+    "objectID": "about.html#habilidades",
+    "href": "about.html#habilidades",
+    "title": "Perfil",
+    "section": "Habilidades",
+    "text": "Habilidades\n\nR\nQGIS\nMicrosoft Office\nInglés B2\nSalud ocupacional y primeros auxilios"
+  },
+  {
+    "objectID": "about.html#formación-académica",
+    "href": "about.html#formación-académica",
+    "title": "Perfil",
+    "section": "Formación académica",
+    "text": "Formación académica\nUniversidad Nacional (UNA)\nBachillerato en Biología\n2023 – Presente"
+  },
+  {
+    "objectID": "cementerio.html#objetivo",
+    "href": "cementerio.html#objetivo",
+    "title": "template",
+    "section": "Objetivo",
+    "text": "Objetivo"
+  },
+  {
+    "objectID": "cementerio.html#metodología",
+    "href": "cementerio.html#metodología",
+    "title": "template",
+    "section": "Metodología",
+    "text": "Metodología"
+  },
+  {
+    "objectID": "cementerio.html#resultados",
+    "href": "cementerio.html#resultados",
+    "title": "template",
+    "section": "Resultados",
+    "text": "Resultados"
+  },
+  {
+    "objectID": "cementerio.html#interpretación",
+    "href": "cementerio.html#interpretación",
+    "title": "template",
+    "section": "Interpretación",
+    "text": "Interpretación"
+  },
+  {
+    "objectID": "cementerio.html#conclusiónes",
+    "href": "cementerio.html#conclusiónes",
+    "title": "template",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes"
+  },
+  {
+    "objectID": "cementerio.html#referencias",
+    "href": "cementerio.html#referencias",
+    "title": "template",
+    "section": "Referencias",
+    "text": "Referencias"
+  },
+  {
+    "objectID": "distribucion_espacial.html",
+    "href": "distribucion_espacial.html",
+    "title": "Distribución espacial (Gira 2).",
+    "section": "",
+    "text": "La forma en que los individuos de una población se distribuyen en el espacio (uniforme, aleatoria o agrupada) refleja procesos como la dispersión de semillas, la heterogeneidad del hábitat y las interacciones entre individuos. Describir este patrón es un paso básico en ecología de poblaciones y en el diseño de muestreos. En esta práctica se evaluó la distribución espacial de dos plantas herbáceas en el Parque Recreativo de la Universidad para la Paz, en Ciudad Colón: Elephantopus mollis (Asteraceae) y Rhynchospora nervosa (Cyperaceae)."
+  },
+  {
+    "objectID": "distribucion_espacial.html#introducción",
+    "href": "distribucion_espacial.html#introducción",
+    "title": "Distribución espacial (Gira 2).",
+    "section": "",
+    "text": "La forma en que los individuos de una población se distribuyen en el espacio (uniforme, aleatoria o agrupada) refleja procesos como la dispersión de semillas, la heterogeneidad del hábitat y las interacciones entre individuos. Describir este patrón es un paso básico en ecología de poblaciones y en el diseño de muestreos. En esta práctica se evaluó la distribución espacial de dos plantas herbáceas en el Parque Recreativo de la Universidad para la Paz, en Ciudad Colón: Elephantopus mollis (Asteraceae) y Rhynchospora nervosa (Cyperaceae)."
+  },
+  {
+    "objectID": "distribucion_espacial.html#objetivo",
+    "href": "distribucion_espacial.html#objetivo",
+    "title": "Distribución espacial (Gira 2).",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue estimar la abundancia de E. mollis y R. nervosa mediante cuadrículas. Luego se determinó si su patrón de distribución espacial era aleatorio, agrupado o uniforme y se evaluó el ajuste de los conteos a las distribuciones teóricas de Poisson y binomial negativa."
+  },
+  {
+    "objectID": "distribucion_espacial.html#metodología",
+    "href": "distribucion_espacial.html#metodología",
+    "title": "Distribución espacial (Gira 2).",
+    "section": "Metodología",
+    "text": "Metodología\nEn un área de 100 × 100 m se establecieron 50 sectores de 10 × 20 m. En cada sector se colocó al azar una cuadrícula de 1 × 1 m. En cada cuadrícula se registraron su posición (X, Y), el número de individuos de E. mollis y el número de macollas independientes de R. nervosa. En R, con Tidyverse, se calcularon la media, la varianza y el índice de dispersión (ID = varianza/media). La desviación respecto de la aleatoriedad se evaluó con una prueba de χ² de dispersión. El ajuste de los conteos a la distribución binomial negativa (E. mollis) y a la de Poisson (R. nervosa) se evaluó con pruebas de bondad de ajuste de χ²; los parámetros de la binomial negativa se estimaron con el paquete MASS. Los resultados se resumieron en un cuadro con gt y las figuras se elaboraron con ggplot2 y cowplot."
+  },
+  {
+    "objectID": "distribucion_espacial.html#resultados",
+    "href": "distribucion_espacial.html#resultados",
+    "title": "Distribución espacial (Gira 2).",
+    "section": "Resultados",
+    "text": "Resultados\nSe contaron 368 individuos de E. mollis y 115 macollas de R. nervosa en las 50 cuadrículas. E. mollis fue más abundante (7.36 ind/m²) y muy variable entre cuadrículas, de 0 a 23 individuos (varianza = 28.81). Su ID fue de 3.91, lo que indica una distribución agrupada (χ² = 191.8, gl = 49, P &lt; 0.001). Sus conteos fueron compatibles con una distribución binomial negativa (χ² = 0.3, gl = 2, P = 0.871). En cambio, R. nervosa presentó una media (2.30) y una varianza (2.26) casi iguales, con un ID de 0.98. Su patrón no difirió del aleatorio (χ² = 48.0, gl = 49, P = 0.512) y sus conteos se ajustaron a una distribución de Poisson (χ² = 2.8, gl = 2, P = 0.249; Figura 1). Ambos resultados coinciden con las predicciones planteadas.\n\n\n\nFigura 1. Frecuencias observadas (barras) y esperadas (puntos y línea) del número de individuos por cuadrícula de 1 m² de A) Elephantopus mollis, según una distribución binomial negativa, y B) Rhynchospora nervosa, según una distribución de Poisson, en el Parque Recreativo de la Universidad para la Paz, Ciudad Colón, en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "distribucion_espacial.html#conclusiónes",
+    "href": "distribucion_espacial.html#conclusiónes",
+    "title": "Distribución espacial (Gira 2).",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí a evaluar el patrón espacial de una población combinando una medida descriptiva (el índice de dispersión) con pruebas estadísticas y el ajuste a distribuciones teóricas. Una dificultad fue definir en el campo qué contar como individuo, sobre todo en R. nervosa, donde hubo que contar macollas y no tallos. Otra fue interpretar los resultados sin atribuir causas que no se midieron: el patrón agrupado de E. mollis podría deberse a la heterogeneidad del suelo o a la dispersión limitada de sus semillas, pero esas variables no se evaluaron. Esta metodología puede aplicarse a cualquier organismo sésil o poco móvil, como plantas, hongos o invertebrados del suelo, y sirve para diseñar muestreos más eficientes."
+  },
+  {
+    "objectID": "indices_diversidad.html",
+    "href": "indices_diversidad.html",
+    "title": "Índices de diversidad",
+    "section": "",
+    "text": "Los índices de diversidad resumen en pocos valores la estructura de una comunidad: cuántas especies tiene (riqueza), cómo se reparten los individuos entre ellas (equidad y dominancia) y cuánto se parecen las comunidades de distintos sitios (diversidad beta). Son herramientas básicas para comparar comunidades, evaluar el efecto de perturbaciones y priorizar áreas de conservación. En esta práctica se analizaron datos de vegetación de parcelas en el Valle de Coachella, en el sur de California."
+  },
+  {
+    "objectID": "indices_diversidad.html#introducción",
+    "href": "indices_diversidad.html#introducción",
+    "title": "Índices de diversidad",
+    "section": "",
+    "text": "Los índices de diversidad resumen en pocos valores la estructura de una comunidad: cuántas especies tiene (riqueza), cómo se reparten los individuos entre ellas (equidad y dominancia) y cuánto se parecen las comunidades de distintos sitios (diversidad beta). Son herramientas básicas para comparar comunidades, evaluar el efecto de perturbaciones y priorizar áreas de conservación. En esta práctica se analizaron datos de vegetación de parcelas en el Valle de Coachella, en el sur de California."
+  },
+  {
+    "objectID": "indices_diversidad.html#objetivo",
+    "href": "indices_diversidad.html#objetivo",
+    "title": "Índices de diversidad",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue calcular y comparar la diversidad alfa, beta y gamma de las comunidades vegetales de tres sitios del Valle de Coachella, utilizando los índices de Shannon, Simpson y Pielou y los coeficientes de similitud de Jaccard y Sorensen."
+  },
+  {
+    "objectID": "indices_diversidad.html#metodología",
+    "href": "indices_diversidad.html#metodología",
+    "title": "Índices de diversidad",
+    "section": "Metodología",
+    "text": "Metodología\nSe utilizó una base de datos de registros de plantas en parcelas de tres sitios ubicados en diferentes ecorregiones: el desierto de Colorado, el desierto de Mojave y las montañas del sur de California. Con sf y tmap se elaboró un mapa del área de estudio. Con Tidyverse se construyeron matrices de comunidad por sitio y por parcela. Primero se calculó el índice de Shannon a mano para el sitio 3. Luego, con el paquete vegan, se calcularon la riqueza (S), la diversidad de Shannon (H’), la diversidad de Simpson (1 − D), la dominancia (D) y la equidad de Pielou (J) por sitio y por parcela. La similitud entre sitios se evaluó con los coeficientes de Jaccard y Sorensen a partir de datos de presencia y ausencia, y la diversidad gamma se calculó con todos los datos juntos."
+  },
+  {
+    "objectID": "indices_diversidad.html#resultados",
+    "href": "indices_diversidad.html#resultados",
+    "title": "Índices de diversidad",
+    "section": "Resultados",
+    "text": "Resultados\nSe registraron 8374 individuos de 31 especies (diversidad gamma: H’ = 2.90; 1 − D = 0.92; J = 0.85). Los sitios 1 y 2 tuvieron una riqueza y una diversidad similares: el sitio 1 tuvo 4196 individuos, 28 especies y H’ = 2.85, y el sitio 2 tuvo 3956 individuos, 27 especies y H’ = 2.69. En ambos dominó Larrea tridentata, con el 18 % y el 21 % de los individuos, respectivamente. El sitio 3 fue mucho más pobre, con 222 individuos y 12 especies (H’ = 2.35), pero tuvo la mayor equidad (J = 0.95). Esto se refleja en una curva de rango-abundancia más corta y menos inclinada (Figura 1). Los sitios 1 y 2 compartieron casi todas sus especies (Jaccard = 0.96; Sorensen = 0.98). En cambio, el sitio 3 tuvo una similitud baja con ambos (Jaccard = 0.29–0.30; Sorensen = 0.45–0.46). Además, fue el único con Agave deserti y con las especies exóticas Schismus barbatus y Brassica tournefortii.\n\n\n\nFigura 1. A) Curvas de rango-abundancia y B) diversidad alfa por parcela (riqueza, diversidad de Shannon, diversidad de Simpson y equidad de Pielou) de la vegetación en tres sitios del Valle de Coachella, California, en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "indices_diversidad.html#conclusiónes",
+    "href": "indices_diversidad.html#conclusiónes",
+    "title": "Índices de diversidad",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí a calcular índices de diversidad alfa, beta y gamma en R. También aprendí que cada índice mide un aspecto distinto de la comunidad: un sitio puede tener pocas especies y, aun así, alta equidad, como el sitio 3. La principal dificultad fue interpretar los índices en conjunto y no por separado. Además, la riqueza depende del esfuerzo de muestreo, y el sitio 3 tuvo muchos menos individuos registrados que los otros dos. Estas herramientas pueden aplicarse a cualquier grupo taxonómico, por ejemplo para comparar comunidades de anfibios entre hábitats, evaluar el efecto de perturbaciones o especies invasoras o seleccionar sitios prioritarios para conservación."
+  },
+  {
+    "objectID": "nicho_bidimensional.html",
+    "href": "nicho_bidimensional.html",
+    "title": "Nicho bidimensional",
+    "section": "",
+    "text": "El nicho ecológico de una especie puede aproximarse comparando las condiciones ambientales donde ha sido registrada con las condiciones disponibles en toda el área de estudio. Representar esa comparación en dos dimensiones (por ejemplo, temperatura y precipitación) permite identificar qué parte del espacio ambiental ocupa la especie. Además, permite detectar cambios en el tiempo, como la pérdida de poblaciones en ciertos ambientes."
+  },
+  {
+    "objectID": "nicho_bidimensional.html#introducción",
+    "href": "nicho_bidimensional.html#introducción",
+    "title": "Nicho bidimensional",
+    "section": "",
+    "text": "El nicho ecológico de una especie puede aproximarse comparando las condiciones ambientales donde ha sido registrada con las condiciones disponibles en toda el área de estudio. Representar esa comparación en dos dimensiones (por ejemplo, temperatura y precipitación) permite identificar qué parte del espacio ambiental ocupa la especie. Además, permite detectar cambios en el tiempo, como la pérdida de poblaciones en ciertos ambientes."
+  },
+  {
+    "objectID": "nicho_bidimensional.html#objetivo",
+    "href": "nicho_bidimensional.html#objetivo",
+    "title": "Nicho bidimensional",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue caracterizar el nicho bidimensional de Craugastor fitzingeri, especie de ejemplo del curso, comparando las condiciones ambientales de sus ocurrencias con el ambiente disponible en Costa Rica. Además, se evaluó con un ejemplo de declive (Craugastor ranoides) cómo cambió el espacio ambiental ocupado antes y después del año 2000. El mismo procedimiento se aplicó a la especie de estudio, Espadarana prosoblepon."
+  },
+  {
+    "objectID": "nicho_bidimensional.html#metodología",
+    "href": "nicho_bidimensional.html#metodología",
+    "title": "Nicho bidimensional",
+    "section": "Metodología",
+    "text": "Metodología\nSe utilizaron las ocurrencias depuradas sin coordenadas oscurecidas de la práctica anterior. Con el paquete terra se importaron capas de temperatura media anual (BIO1) y precipitación anual (BIO12) de WorldClim, de elevación y de huella humana. Las capas se igualaron en extensión y resolución mediante recorte y remuestreo bilineal. Luego se extrajeron los valores ambientales de todas las celdas del país (background) y de cada ocurrencia. Con ggplot2 se graficaron las combinaciones temperatura–precipitación, temperatura–elevación y elevación–huella humana. Para C. ranoides, las ocurrencias se clasificaron en registros anteriores y posteriores al año 2000."
+  },
+  {
+    "objectID": "nicho_bidimensional.html#resultados",
+    "href": "nicho_bidimensional.html#resultados",
+    "title": "Nicho bidimensional",
+    "section": "Resultados",
+    "text": "Resultados\nSe analizaron 2924 ocurrencias de C. fitzingeri. La especie ocupó solo una parte del espacio ambiental disponible: se concentró en zonas cálidas, entre 20 y 27 °C, y húmedas, entre 2000 y 4500 mm anuales, con la mayor densidad de registros cerca de los 26 °C (Figura 1). Esto corresponde a elevaciones por debajo de los 1500 m, con muy pocos registros sobre los 2000 m. Las condiciones frías de las tierras altas quedaron sin ocupar. E. prosoblepon ocupó un rango térmico más amplio y más fresco, entre 17 y 27 °C, centrado en elevaciones medias de 500 a 1800 m. En el ejemplo de C. ranoides, los registros anteriores al 2000 abarcaban un amplio rango de condiciones húmedas, entre 16 y 27 °C y hasta 1800 m. En cambio, los registros posteriores al 2000 se restringen a condiciones cálidas y secas (cerca de 27 °C y menos de 1800 mm), correspondientes al bosque seco de Santa Elena.\n\n\n\nFigura 1. Nicho bidimensional de Craugastor fitzingeri en Costa Rica, según la temperatura media anual y la precipitación anual. Los puntos rojos son las ocurrencias de la especie y los grises son las condiciones disponibles en el país (background). Elaborado a partir de datos de GBIF, iNaturalist y WorldClim en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "nicho_bidimensional.html#conclusiónes",
+    "href": "nicho_bidimensional.html#conclusiónes",
+    "title": "Nicho bidimensional",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí a combinar ocurrencias con capas ambientales para describir el nicho de una especie y comparar especies con requerimientos distintos. La mayor dificultad fue preparar los rasters, porque tenían resoluciones y extensiones diferentes y hubo que igualarlos antes de extraer los valores. También hay que revisar con cuidado las figuras: en el ejemplo de C. ranoides, las etiquetas de la leyenda no coincidían con los datos. Esta herramienta es útil para detectar contracciones del nicho asociadas a declives poblacionales, como en C. ranoides, y como paso previo a modelos de distribución de especies."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portafolio académico",
+    "section": "",
+    "text": "En esta sección se documentan las prácticas de laboratorio, proyectos, análisis y productos desarrollados durante el curso Ecología de Poblaciones y Comunidades.\nCada práctica constituye una evidencia del aprendizaje adquirido durante el semestre y forma parte de mi portafolio profesional."
+  },
+  {
+    "objectID": "portfolio.html#prácticas-de-laboratorio",
+    "href": "portfolio.html#prácticas-de-laboratorio",
+    "title": "Portafolio académico",
+    "section": "Prácticas de laboratorio",
+    "text": "Prácticas de laboratorio\n\n📚 Gestión de referencias bibliográficas con Zotero\nEn esta práctica se documentará la creación de una biblioteca bibliográfica utilizando Zotero y su integración con Microsoft Word.\nVer práctica →\n\n\n📚 Manejo de datos con Tidyverse\nEn esta práctica se importará, ordenará y visualizará un juego de datos desordenado de observaciones de mamíferos africanos con el conjunto de paquetes Tidyverse de Rstudio.\nVer práctica →\n\n\n📚 Descarga de ocurrencias de GBIF y iNaturalist\nEn esta práctica se descargará y limpiará un juego de datos de ocurrencias obtenidas mediante las API de GBIF e iNaturalist con los paquetes rgbif y rinat. La depuración de coordenadas se hará con CoordinateCleaner y el mapeo, con sf y tmap.\nVer práctica →\n\n\n📚 Generación de tablas de vida (Gira 1).\nEn esta práctica se construirán tablas de vida a partir de registros funerarios de los cementerios de Heredia y San José. Con ellas se compararán las curvas de supervivencia observadas con los modelos teóricos Tipo I, II y III, y las edades de muerte entre localidades y sexos.\nVer práctica →\n\n\n📚 Mapeo de áreas administrativas y regiones biogeográficas.\nEn esta práctica se cruzarán las ocurrencias depuradas de una especie con capas de provincias, cantones y regiones biogeográficas de Savage para cuantificar y mapear su distribución en Costa Rica con los paquetes sf y tmap.\nVer práctica →\n\n\n📚 Nicho bidimensional.\nEn esta práctica se extraerán variables de temperatura, precipitación, elevación y huella humana para las ocurrencias de una especie y se compararán con el ambiente disponible en Costa Rica, con el fin de caracterizar su nicho bidimensional con los paquetes terra y ggplot2.\nVer práctica →\n\n\n📚 Distribución espacial (Gira 2).\nEn esta práctica se contarán individuos de dos especies de plantas en cuadrículas de 1 m² para determinar su patrón de distribución espacial (aleatorio, agrupado o uniforme). El análisis usará el índice de dispersión y el ajuste a las distribuciones de Poisson y binomial negativa.\nVer práctica →\n\n\n📚 Estimación de densidad por Kernel (KDE).\nEn esta práctica se estimará la densidad de localidades de una especie en Costa Rica mediante un kernel gaussiano con los paquetes de spatstat y se delimitarán las zonas de mayor concentración de registros con polígonos del 50 % y 95 %.\nVer práctica →\n\n\n📚 Índices de diversidad.\nEn esta práctica se calcularán índices de diversidad alfa, beta y gamma (riqueza, Shannon, Simpson, Pielou, Jaccard y Sorensen) para comunidades vegetales de tres sitios del Valle de Coachella, California, con el paquete vegan.\nVer práctica →"
+  },
+  {
+    "objectID": "portfolio.html#objetivo-del-portafolio",
+    "href": "portfolio.html#objetivo-del-portafolio",
+    "title": "Portafolio académico",
+    "section": "Objetivo del portafolio",
+    "text": "Objetivo del portafolio\nMás que una colección de tareas, este portafolio constituye un registro organizado del aprendizaje, donde se documentan procedimientos, resultados y reflexiones desarrolladas a lo largo del curso.\nAl finalizar el semestre este sitio mostrará la evolución de mis competencias en análisis de datos ecológicos, programación en R y comunicación científica."
+  },
+  {
+    "objectID": "tablas_de_vida.html",
+    "href": "tablas_de_vida.html",
+    "title": "Generación de tablas de vida (Gira 1).",
+    "section": "",
+    "text": "Las tablas de vida resumen cómo cambian la supervivencia y la mortalidad de una población con la edad. Son una herramienta básica de la ecología de poblaciones porque permiten construir curvas de supervivencia y compararlas con los modelos teóricos Tipo I, Tipo II y Tipo III. En esta práctica se construyeron tablas de vida en R a partir de registros funerarios de dos cementerios de Costa Rica. Los datos de Heredia los recolectó el grupo del curso del año anterior y los de San José se recolectaron durante la Gira 1 en el Cementerio General."
+  },
+  {
+    "objectID": "tablas_de_vida.html#introducción",
+    "href": "tablas_de_vida.html#introducción",
+    "title": "Generación de tablas de vida (Gira 1).",
+    "section": "",
+    "text": "Las tablas de vida resumen cómo cambian la supervivencia y la mortalidad de una población con la edad. Son una herramienta básica de la ecología de poblaciones porque permiten construir curvas de supervivencia y compararlas con los modelos teóricos Tipo I, Tipo II y Tipo III. En esta práctica se construyeron tablas de vida en R a partir de registros funerarios de dos cementerios de Costa Rica. Los datos de Heredia los recolectó el grupo del curso del año anterior y los de San José se recolectaron durante la Gira 1 en el Cementerio General."
+  },
+  {
+    "objectID": "tablas_de_vida.html#objetivo",
+    "href": "tablas_de_vida.html#objetivo",
+    "title": "Generación de tablas de vida (Gira 1).",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue construir y analizar tablas de vida a partir de registros de mortalidad humana. Se buscó describir el patrón de supervivencia, compararlo con las curvas teóricas Tipo I, II y III, y determinar si la distribución de las edades de muerte difería entre Heredia y San José y, de forma secundaria, entre mujeres y hombres."
+  },
+  {
+    "objectID": "tablas_de_vida.html#metodología",
+    "href": "tablas_de_vida.html#metodología",
+    "title": "Generación de tablas de vida (Gira 1).",
+    "section": "Metodología",
+    "text": "Metodología\nDe cada lápida se registraron el sexo y los años de nacimiento y de muerte. En R se unieron los datos de ambas localidades con el paquete Tidyverse. La edad de muerte se calculó como la diferencia entre el año de muerte y el de nacimiento. Se excluyeron los registros con edades menores que 0 o mayores que 110 años, y los individuos se agruparon en 21 clases de edad. Para cada localidad se calcularon dₓ, nₓ, lₓ y qₓ, y la tabla de vida se presentó como cuadro con el paquete gt. Las figuras se elaboraron con ggplot2 y cowplot. Las edades de muerte entre localidades y entre sexos se compararon con las pruebas de Kolmogorov-Smirnov y U de Mann-Whitney."
+  },
+  {
+    "objectID": "tablas_de_vida.html#resultados",
+    "href": "tablas_de_vida.html#resultados",
+    "title": "Generación de tablas de vida (Gira 1).",
+    "section": "Resultados",
+    "text": "Resultados\nSe analizaron 2763 registros: 1403 de Heredia y 1360 de San José. En ambas localidades la supervivencia se mantuvo alta durante las edades tempranas e intermedias. Hasta los 45 años seguía vivo más del 80 % de la cohorte (lₓ = 0.83 en Heredia y 0.81 en San José). Después la supervivencia cayó de forma pronunciada: la mortalidad por intervalo (qₓ) superó 0.25 a partir de los 76 años. Este patrón corresponde a una curva Tipo I (Figura 1). La distribución de las edades de muerte no difirió entre Heredia y San José (KS: D = 0.08, p = 0.24; Mann-Whitney: W = 965357, p = 0.589). En cambio, las mujeres mostraron mayor supervivencia que los hombres en todas las edades adultas y murieron a edades más avanzadas, con una mediana cercana a 77 años frente a 68 en los hombres (KS: D = 0.178, p &lt; 0.001; Mann-Whitney: W = 1167587, p &lt; 0.001).\n\n\n\nFigura 1. A) Curvas de supervivencia (lₓ) de mujeres y hombres a partir de registros funerarios de los cementerios de Heredia y San José, Costa Rica. B) Distribución de las edades de muerte por sexo en ambas localidades, en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "tablas_de_vida.html#conclusiónes",
+    "href": "tablas_de_vida.html#conclusiónes",
+    "title": "Generación de tablas de vida (Gira 1).",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí a construir una tabla de vida completa en R, desde los datos crudos hasta los cuadros, las figuras y las pruebas estadísticas, sin modificar nada a mano en hojas de cálculo. La mayor dificultad fue la calidad de los datos de campo: algunos registros tenían edades de muerte imposibles o fechas incompletas que hubo que revisar y excluir. Además, los registros funerarios no representan una cohorte real. Este mismo flujo de trabajo podría aplicarse a otras especies con datos de edad de muerte o de supervivencia, por ejemplo, en estudios de fauna silvestre o en poblaciones manejadas."
+  },
+  {
+    "objectID": "tidyverse.html",
+    "href": "tidyverse.html",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "",
+    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+  },
+  {
+    "objectID": "tidyverse.html#introducción",
+    "href": "tidyverse.html#introducción",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "",
+    "text": "En esta práctica se utilizó el paquete “Tidyverse” en para realizar el proceso de importación de datos, así como la limpieza, manipulación y visualización de datos. El juego de datos del estudio consistió en una seria de observaciones de mamíferos africanos que se encontraba desordenado o que carecía de formato."
+  },
+  {
+    "objectID": "tidyverse.html#objetivo",
+    "href": "tidyverse.html#objetivo",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Objetivo",
+    "text": "Objetivo\nEl objetivo de esta práctica fue importar, ordenar y visualizar un juego de datos de mamíferos africanos utilizando Tidyverse, que es una colección de paquetes de R diseñados para la ciencia de datos que comparten una filosofía, gramática y estructura de datos común."
+  },
+  {
+    "objectID": "tidyverse.html#metodología",
+    "href": "tidyverse.html#metodología",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Metodología",
+    "text": "Metodología\nSe importó un juego de datos y se realizó una manipulación de datos con Tidyverse que incluyó el resumen de datos, cambio de formato de fecha, unión y separación de columnas, y un gráfico para visualizar la abundancia relativa de observaciones."
+  },
+  {
+    "objectID": "tidyverse.html#resultados",
+    "href": "tidyverse.html#resultados",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Resultados",
+    "text": "Resultados\nSe encontró un total de 26 especies. La especie más abundante fue el hipopótamo, Hippopotamus amphibius, con 28 observaciones, seguido del antílope de Lechwe, Kobus leche, con 22 observaciones (Figura 1).\n\n\n\nFigura 1. Abundancia relativa de mamíferos africanos en el juego de datos importado y procesado con Tidyverse en el curso de Ecología de Poblaciones y Comunidades, 2026."
+  },
+  {
+    "objectID": "tidyverse.html#conclusiónes",
+    "href": "tidyverse.html#conclusiónes",
+    "title": "Manejo de datos con Tidyverse",
+    "section": "Conclusiónes",
+    "text": "Conclusiónes\nEn este ejercicio aprendí las bases de la importación y manejo de datos en Tidyverse; sin embargo, se necesita mucha más practica para dominar la gran cantidad de funciones que se incluyen en este conjunto de paquetes. La versatilidad que ofrece el universo del paquete de Tidyverse permite utilizar este proceso en cualquier tipo de juego de datos, por lo que es una herramienta muy valiosa para los ecólogos."
+  }
+]
