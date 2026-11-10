@@ -8,7 +8,7 @@
 
 <meta name="author" content="Aylin Rodriguez-Jimenez">
 
-<title>Gestión de referencias bibliográficas con Zotero – Portafolio Científico</title>
+<title>Distribución espacial (Gira 2). – Portafolio Científico</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -24,26 +24,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -142,11 +123,10 @@ div.csl-indent {
    
   <ul>
   <li><a href="#introducción" id="toc-introducción" class="nav-link active" data-scroll-target="#introducción">Introducción</a></li>
-  <li><a href="#objetivos" id="toc-objetivos" class="nav-link" data-scroll-target="#objetivos">Objetivos</a></li>
+  <li><a href="#objetivo" id="toc-objetivo" class="nav-link" data-scroll-target="#objetivo">Objetivo</a></li>
   <li><a href="#metodología" id="toc-metodología" class="nav-link" data-scroll-target="#metodología">Metodología</a></li>
   <li><a href="#resultados" id="toc-resultados" class="nav-link" data-scroll-target="#resultados">Resultados</a></li>
   <li><a href="#conclusiónes" id="toc-conclusiónes" class="nav-link" data-scroll-target="#conclusiónes">Conclusiónes</a></li>
-  <li><a href="#referencias" id="toc-referencias" class="nav-link" data-scroll-target="#referencias">Referencias</a></li>
   </ul>
 </nav>
     </div>
@@ -155,7 +135,7 @@ div.csl-indent {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Gestión de referencias bibliográficas con Zotero</h1>
+<h1 class="title">Distribución espacial (Gira 2).</h1>
 </div>
 
 
@@ -180,94 +160,34 @@ div.csl-indent {
 
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
-<p>Esta práctica consisitió en el uso del software zotero como una herramienta para la elaboración de referencias bibliograficas, teniendo en cuenta los diferentes tipos de formato y como zotero simplifica el cambio del mismo.</p>
+<p>La forma en que los individuos de una población se distribuyen en el espacio (uniforme, aleatoria o agrupada) refleja procesos como la dispersión de semillas, la heterogeneidad del hábitat y las interacciones entre individuos. Describir este patrón es un paso básico en ecología de poblaciones y en el diseño de muestreos. En esta práctica se evaluó la distribución espacial de dos plantas herbáceas en el Parque Recreativo de la Universidad para la Paz, en Ciudad Colón: <em>Elephantopus mollis</em> (Asteraceae) y <em>Rhynchospora nervosa</em> (Cyperaceae).</p>
 </section>
-<section id="objetivos" class="level2">
-<h2 class="anchored" data-anchor-id="objetivos">Objetivos</h2>
-<ul>
-<li><p>Al finalizar este tutorial, el estudiante será capaz de:</p></li>
-<li><p>Crear y organizar una biblioteca bibliográfica en Zotero.</p></li>
-<li><p>Incorporar referencias mediante DOI, archivos RIS y Zotero Connector.</p></li>
-<li><p>Revisar y corregir los metadatos de una referencia.</p></li>
-<li><p>Instalar y utilizar un estilo bibliográfico.</p></li>
-<li><p>Insertar citas y bibliografías automáticamente en Microsoft Word.</p></li>
-<li><p>Incorporar referencias que no corresponden a artículos científicos, como reportes, páginas web y software.</p></li>
-<li><p>Citar R, RStudio y paquetes de R.</p></li>
-</ul>
+<section id="objetivo" class="level2">
+<h2 class="anchored" data-anchor-id="objetivo">Objetivo</h2>
+<p>El objetivo de esta práctica fue estimar la abundancia de <em>E. mollis</em> y <em>R. nervosa</em> mediante cuadrículas. Luego se determinó si su patrón de distribución espacial era aleatorio, agrupado o uniforme y se evaluó el ajuste de los conteos a las distribuciones teóricas de Poisson y binomial negativa.</p>
 </section>
 <section id="metodología" class="level2">
 <h2 class="anchored" data-anchor-id="metodología">Metodología</h2>
-<p>Primeramente, se creó una colección en zotero llamada tutorial_zotero. Se realizó la integración de esta herramienta en el software Word. Se incorporaron diversas referencias brindadas por el profesor a zotero mediante diversos métodos, por archivo RIS, por DOI y por medio de un zotero connector de Chrome. Se eleigió el estilo bibliografico y se realizó la escritura de diversos textos en bases a los titulos para poder realizar las citas parenteticas y de párrafo.</p>
+<p>En un área de 100 × 100 m se establecieron 50 sectores de 10 × 20 m. En cada sector se colocó al azar una cuadrícula de 1 × 1 m. En cada cuadrícula se registraron su posición (X, Y), el número de individuos de <em>E. mollis</em> y el número de macollas independientes de <em>R. nervosa</em>. En R, con Tidyverse, se calcularon la media, la varianza y el índice de dispersión (ID = varianza/media). La desviación respecto de la aleatoriedad se evaluó con una prueba de χ² de dispersión. El ajuste de los conteos a la distribución binomial negativa (<em>E. mollis</em>) y a la de Poisson (<em>R. nervosa</em>) se evaluó con pruebas de bondad de ajuste de χ²; los parámetros de la binomial negativa se estimaron con el paquete MASS. Los resultados se resumieron en un cuadro con gt y las figuras se elaboraron con ggplot2 y cowplot.</p>
 </section>
 <section id="resultados" class="level2">
 <h2 class="anchored" data-anchor-id="resultados">Resultados</h2>
-<p>Se obtuvo una carpeta en zotero llama tutorial_zotero donde se albergaron todas las diversas citas utilizadas en la práctica. Además se obtuvo un Word con citas parenteticas y de parrafo en base a los textos referenciados.</p>
+<p>Se contaron 368 individuos de <em>E. mollis</em> y 115 macollas de <em>R. nervosa</em> en las 50 cuadrículas. <em>E. mollis</em> fue más abundante (7.36 ind/m²) y muy variable entre cuadrículas, de 0 a 23 individuos (varianza = 28.81). Su ID fue de 3.91, lo que indica una distribución agrupada (χ² = 191.8, gl = 49, P &lt; 0.001). Sus conteos fueron compatibles con una distribución binomial negativa (χ² = 0.3, gl = 2, P = 0.871). En cambio, <em>R. nervosa</em> presentó una media (2.30) y una varianza (2.26) casi iguales, con un ID de 0.98. Su patrón no difirió del aleatorio (χ² = 48.0, gl = 49, P = 0.512) y sus conteos se ajustaron a una distribución de Poisson (χ² = 2.8, gl = 2, P = 0.249; Figura 1). Ambos resultados coinciden con las predicciones planteadas.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/Foto zotero.png" class="img-fluid figure-img"></p>
-<figcaption>Figura 1. Toma de pantalla de la biblioteca creada en esta práctica</figcaption>
+<p><img src="images/figura_2_distribuciones_teoricas.jpg" class="img-fluid figure-img"></p>
+<figcaption><strong>Figura 1.</strong> Frecuencias observadas (barras) y esperadas (puntos y línea) del número de individuos por cuadrícula de 1 m² de A) <em>Elephantopus mollis</em>, según una distribución binomial negativa, y B) <em>Rhynchospora nervosa</em>, según una distribución de Poisson, en el Parque Recreativo de la Universidad para la Paz, Ciudad Colón, en el curso de Ecología de Poblaciones y Comunidades, 2026.</figcaption>
 </figure>
 </div>
-<p>Cita 1</p>
-<p>La epidemia tuvo un curso prolongado, duró durante las estaciones lluviosa y seca, y alcanzó tasas de ataque de hasta el 5% en ciertos distritos <span class="citation" data-cites="villarejos_hepatitis_1972">(<a href="#ref-villarejos_hepatitis_1972" role="doc-biblioref">Villarejos et&nbsp;al. 1972</a>)</span></p>
-<p>Además, se obtuvo un cuadro con los diversos métodos utilizados y en que ocasiones utilizarlos.</p>
-<p>Cuadro 1. Métodos utilizados para incorporar referencias bibliográficas a Zotero.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Método</th>
-<th>¿Cuándo utilizarlo?</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>DOI</td>
-<td>Cuando la publicación tiene un DOI conocido</td>
-</tr>
-<tr class="even">
-<td>Archivo RIS</td>
-<td>Cuando la revista o base de datos permite exportar la referencia</td>
-</tr>
-<tr class="odd">
-<td>Zotero Connector</td>
-<td>Para capturar referencias directamente desde el navegador</td>
-</tr>
-<tr class="even">
-<td>Entrada manual</td>
-<td>Cuando la información no puede importarse automáticamente</td>
-</tr>
-</tbody>
-</table>
-<p>Cita 2</p>
-<p>Este crecimiento ha estado acompañado de cambios a gran escala en la cobertura y el uso del suelo, generalmente en favor de la agricultura. Se combinó información sobre la cobertura y el uso del suelo, así como sobre el crecimiento de la población humana, para generar un mapa compuesto que muestra las tasas de transformación del mundo por parte de los seres humanos <span class="citation" data-cites="gallant_global_2007">(<a href="#ref-gallant_global_2007" role="doc-biblioref">Gallant et&nbsp;al. 2007</a>)</span></p>
 </section>
 <section id="conclusiónes" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiónes">Conclusiónes</h2>
-<ul>
-<li><p>Se usó la herramienta zotero como parte vital para el orden de las citas y la veracidad de estos textos</p></li>
-<li><p>Se utilizaron las extensiones que brinda zotero tanto en word como en Chrome.</p></li>
-<li><p>Se citaron diversas fuentes, tanto manuelaes, protocolos y articulos cientificos, apreciando la importancia de todos estos archivos.</p></li>
-</ul>
-</section>
-<section id="referencias" class="level2">
-
-
+<p>En este ejercicio aprendí a evaluar el patrón espacial de una población combinando una medida descriptiva (el índice de dispersión) con pruebas estadísticas y el ajuste a distribuciones teóricas. Una dificultad fue definir en el campo qué contar como individuo, sobre todo en <em>R. nervosa</em>, donde hubo que contar macollas y no tallos. Otra fue interpretar los resultados sin atribuir causas que no se midieron: el patrón agrupado de <em>E. mollis</em> podría deberse a la heterogeneidad del suelo o a la dispersión limitada de sus semillas, pero esas variables no se evaluaron. Esta metodología puede aplicarse a cualquier organismo sésil o poco móvil, como plantas, hongos o invertebrados del suelo, y sirve para diseñar muestreos más eficientes.</p>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referencias</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
-<div id="ref-gallant_global_2007" class="csl-entry" role="listitem">
-Gallant, Alisa L., Robert W. Klaver, Gary S. Casper, y Michael J. Lannoo. 2007. <span>«Global rates of habitat loss and implications for amphibian conservation»</span>. <em>Ichthyology &amp; Herpetology</em> 2007 (4): 967-79. <a href="https://asih.kglmeridian.com/view/journals/cope/2007/4/article-p967.xml">https://asih.kglmeridian.com/view/journals/cope/2007/4/article-p967.xml</a>.
-</div>
-<div id="ref-villarejos_hepatitis_1972" class="csl-entry" role="listitem">
-Villarejos, Víctor M., Jorge A. Arguedas, Alvaro Gutiérrez, Eduardo Eduarte, A. Gilberto Vargas, y Jorge A. Osborne. 1972. <span>«Hepatitis epidemic in a hyperendemic zone of <span>Costa</span> <span>Rica</span>. <span>Report</span> of a second outbreak within four years.»</span> <em>American Journal of Epidemiology</em> 96 (5): 361-71. <a href="https://doi.org/10.1093/oxfordjournals.aje.a121467">https://doi.org/10.1093/oxfordjournals.aje.a121467</a>.
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

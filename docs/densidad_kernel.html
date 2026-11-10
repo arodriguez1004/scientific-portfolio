@@ -8,7 +8,7 @@
 
 <meta name="author" content="Aylin Rodriguez-Jimenez">
 
-<title>template – Portafolio Científico</title>
+<title>Estimación de densidad por Kernel (KDE) – Portafolio Científico</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -126,9 +126,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#objetivo" id="toc-objetivo" class="nav-link" data-scroll-target="#objetivo">Objetivo</a></li>
   <li><a href="#metodología" id="toc-metodología" class="nav-link" data-scroll-target="#metodología">Metodología</a></li>
   <li><a href="#resultados" id="toc-resultados" class="nav-link" data-scroll-target="#resultados">Resultados</a></li>
-  <li><a href="#interpretación" id="toc-interpretación" class="nav-link" data-scroll-target="#interpretación">Interpretación</a></li>
   <li><a href="#conclusiónes" id="toc-conclusiónes" class="nav-link" data-scroll-target="#conclusiónes">Conclusiónes</a></li>
-  <li><a href="#referencias" id="toc-referencias" class="nav-link" data-scroll-target="#referencias">Referencias</a></li>
   </ul>
 </nav>
     </div>
@@ -137,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">template</h1>
+<h1 class="title">Estimación de densidad por Kernel (KDE)</h1>
 </div>
 
 
@@ -162,24 +160,29 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
+<p>La estimación de densidad por kernel (KDE) convierte un conjunto de localidades puntuales en una superficie continua que muestra dónde se concentran los registros de una especie. Es útil para identificar núcleos de ocurrencia y delimitar áreas de uso a partir de datos de presencia. Sin embargo, los resultados dependen del ancho de banda (sigma) y del esfuerzo de muestreo, por lo que deben interpretarse con cuidado.</p>
 </section>
 <section id="objetivo" class="level2">
 <h2 class="anchored" data-anchor-id="objetivo">Objetivo</h2>
+<p>El objetivo de esta práctica fue estimar la densidad de localidades de <em>Craugastor fitzingeri</em> en Costa Rica mediante KDE e identificar las zonas de mayor concentración de registros con polígonos de 50 % y 95 % de la densidad acumulada.</p>
 </section>
 <section id="metodología" class="level2">
 <h2 class="anchored" data-anchor-id="metodología">Metodología</h2>
+<p>Se utilizaron las ocurrencias depuradas sin coordenadas oscurecidas de <em>C. fitzingeri</em> obtenidas de GBIF e iNaturalist. Se eliminaron las coordenadas duplicadas, de modo que cada localidad se contó una sola vez, y se conservaron solo las localidades dentro de Costa Rica. Las coordenadas se proyectaron a CRTM05 (EPSG 5367) para trabajar en metros. Con los paquetes spatstat.geom y spatstat.explore se calculó un KDE gaussiano con un ancho de banda de 5000 m y una resolución de 500 m. La superficie se convirtió a raster y se recortó al territorio nacional con terra. A partir de la densidad acumulada se delimitaron los polígonos que contienen el 50 % y el 95 % de la masa del KDE, y los mapas se elaboraron con tmap. <em>Espadarana prosoblepon</em> no se analizó en esta práctica.</p>
 </section>
 <section id="resultados" class="level2">
 <h2 class="anchored" data-anchor-id="resultados">Resultados</h2>
-</section>
-<section id="interpretación" class="level2">
-<h2 class="anchored" data-anchor-id="interpretación">Interpretación</h2>
+<p>De las 2924 ocurrencias de <em>C. fitzingeri</em> (487 de GBIF y 2437 de iNaturalist), quedaron 2351 localidades únicas después de eliminar las coordenadas repetidas. La mayor densidad, entre 1.5 y 1.8 localidades/km², se encontró en la zona de Sarapiquí, en las tierras bajas del Caribe norte. Le siguió la región de Arenal–San Carlos. El polígono del 50 % estuvo formado por varios núcleos separados: Sarapiquí, San Carlos, el Pacífico central y sur (Quepos–Dominical), la península de Osa y la zona sur. El polígono del 95 % abarcó gran parte de las tierras bajas del Caribe y del Pacífico sur. Guanacaste y las tierras altas quedaron mayormente fuera de él (Figura 1).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/craugastor_fitzingeri_kde_polygons_sigma_5000.jpg" class="img-fluid figure-img"></p>
+<figcaption><strong>Figura 1.</strong> Regiones de 50 % (azul oscuro) y 95 % (amarillo) de la densidad kernel de localidades de <em>Craugastor fitzingeri</em> en Costa Rica (sigma = 5000 m), a partir de datos de GBIF e iNaturalist, en el curso de Ecología de Poblaciones y Comunidades, 2026. Los puntos negros son las localidades registradas.</figcaption>
+</figure>
+</div>
 </section>
 <section id="conclusiónes" class="level2">
 <h2 class="anchored" data-anchor-id="conclusiónes">Conclusiónes</h2>
-</section>
-<section id="referencias" class="level2">
-<h2 class="anchored" data-anchor-id="referencias">Referencias</h2>
+<p>En este ejercicio aprendí a transformar ocurrencias puntuales en una superficie de densidad continua y a delimitar zonas de concentración de registros. La principal dificultad fue la interpretación: la densidad refleja la concentración de localidades registradas y no la abundancia real de la especie. Por ejemplo, los núcleos coinciden con sitios muy visitados, como estaciones biológicas y zonas turísticas, lo que sugiere un fuerte sesgo de muestreo. Además, el resultado cambia según el valor de sigma que se elija. Esta herramienta puede aplicarse para identificar áreas prioritarias de conservación, estimar áreas de uso o ámbitos de hogar con datos de telemetría y detectar vacíos de muestreo en cualquier especie.</p>
 
 
 </section>
